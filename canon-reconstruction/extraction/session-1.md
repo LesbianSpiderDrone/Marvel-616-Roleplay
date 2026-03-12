@@ -107,9 +107,9 @@ yet — this session establishes framework rather than interactive story.
 | Role | First antagonist; defeated in opening encounter |
 | Apparent Affiliation | AIM (abandoned prototype; lost during a facility raid 3 months prior) |
 | Description | Failed AIM prototype — too unstable for deployment, too expensive to dismantle. Roughly shopping-cart sized, grotesquely enlarged head housing computational core, atrophied limbs, yellow/black AIM insignia. Running on corrupted programming loop: DETECT ANOMALY → ACQUIRE ANOMALY → ANALYZE ANOMALY. Equipped with low-grade energy projectors (specimen immobilization, not combat). Detected Iso-8 signature and followed it. Hovering, non-verbal (damaged vocal synthesizers produce only static). |
-| Origin Plausibility | `[616-UNCERTAIN]`. The MODOC designation ("Computation" rather than the published MODOK's "Killing") does not appear in any published 616 source this extractor could find. MODOK (Mental Organism Designed Only for Killing) is a well-established 616 entity; MODOC is not. The GM appears to have created a variant acronym to designate a failed, lower-tier prototype — the concept (AIM creates and abandons dangerous prototypes) is consistent with AIM's canonical behavior. The specific "MODOC" designation is fabricated. |
+| Origin Plausibility | `[616-PLAUSIBLE / GM-ADAPTED]`. "MODOC" (Mental Organism Designed Only for Computation) is a real 616 designation — it was George Tarleton's original AIM title before he went rogue and renamed himself MODOK. AIM lore further references other MODOC-class units as intended organic supercomputer prototypes (the original program goal before Tarleton's mutation). "MODOC Unit 7" is therefore a GM-created *individual* within a real AIM program: a failed unit from the same project that eventually produced MODOK. The "abandoned due to instability, too expensive to dismantle, lost track of it during a raid" backstory is entirely consistent with how AIM treats its failed experiments. |
 
-**Research note:** Web search found no published 616 entity designated "MODOC" (Mental Organism Designed Only for Computation). The known published variants are MODOK (Killing), MODAM (Aggressive Maneuvers), and MODOC (Conquest — but this refers to an alternate-universe version of MODOK, not a "Computation" unit). This unit is `[GM-FABRICATED]` with `[616-INSPIRED]` concept.
+**Research note (corrected):** Subsequent web search by background research agent confirmed that MODOC *is* a canonical 616 designation — George Tarleton's original AIM title, and a class of AIM organic supercomputer projects. The initial assessment ("MODOC not found in published sources") was incorrect. MODOC Unit 7 as a specific individual is `[GM-ADAPTED]` from a real AIM program, not purely fabricated. Classification upgraded accordingly. Sources: [George Tarleton — Marvel Database](https://marvel.fandom.com/wiki/George_Tarleton_(Earth-616)), [MODOK — Wikipedia](https://en.wikipedia.org/wiki/MODOK)
 **Narrative Weight:** `SIGNIFICANT` (first combat; establishes the power's function; creates the initial SHIELD trail)
 
 ---
@@ -426,7 +426,7 @@ The following are a representative selection of generated items; full inventorie
 
 1. **"2012 invasion / Chitauri" inconsistency** — The Chitauri are canonically from Earth-1610 (Ultimate Universe). Their use as "leftover from 2012 invasion" maps the MCU Battle of New York (2012, Chitauri) onto Earth-616 where the analogous event used different aliens. This may reflect the GM blending MCU framing with 616 setting. **Flag for Phase 2: establish whether this story's 2012 invasion was Chitauri (MCU-derived) or another 616 event.**
 
-2. **MODOC vs. MODOK** — "Mental Organism Designed Only for Computation" appears to be a GM-fabricated acronym variant, not a published 616 designation. The published 616 variants are MODOK (Killing), MODAM (Aggressive Maneuvers), and alternately MODOC (Conquest — an alternate-universe MODOK title). The "Computation" variant is not found in published sources. The concept (failed AIM prototype) is plausible; the designation is fabricated.
+2. **MODOC vs. MODOK** — Initial assessment (MODOC not found in published 616) was corrected by subsequent research. MODOC *is* a real 616 designation: George Tarleton's original AIM project title, and a class of AIM organic supercomputer units. MODOC Unit 7 as a specific individual is `[GM-ADAPTED]` — a plausible unit from a real AIM program, not a fabricated concept. No downstream continuity concern.
 
 3. **Sharon Carter described as "late twenties"** — Sharon Carter in 616 has decades of field experience and an ambiguous but clearly substantial age. "Late twenties" may be a visual/narrative shorthand, not a canonical age claim. Low-priority issue.
 
@@ -458,7 +458,7 @@ Session 1 functions as both a rules-establishment session and an extended compre
 |---|---|---|
 | The Grandmaster (En Dwi Gast) | `[616-CANONICAL]` — *Avengers #69, 1969* | Hidden orchestrator / observer |
 | "Salvage" (protagonist) | `[OC]` | Protagonist |
-| MODOC Unit 7 | `[GM-FABRICATED]` — designation not found in published 616; MODOK variant | First antagonist |
+| MODOC Unit 7 | `[GM-ADAPTED]` — MODOC is a real AIM program/designation (Tarleton's original title; see George Tarleton/MODOK origin); Unit 7 is a GM-created individual within that program | First antagonist |
 | Sharon Carter | `[616-CANONICAL]` — *Tales of Suspense #75, 1966* | SHIELD first-contact agent |
 | Thunderball (Eliot Franklin) | `[616-CANONICAL]` — *The Defenders #17, 1974* | Solo antagonist (Weeks 13–14) |
 | Anaconda (Blanche Sitznski) | `[616-CANONICAL]` — *Marvel Two-in-One #64, 1980* | Solo antagonist (Week 16) |
