@@ -380,7 +380,7 @@ Enforcement: "Anyone who tries to take advantage gets the Hydra treatment." — 
 | Member | Affiliation | Role | Notes |
 |--------|-------------|------|-------|
 | Monica Rappaccini | AIM (reformed to qualify) | Research/Science | AIM Scientist Supreme |
-| Phalanx | Machine consciousness / Ultron | Machine Intelligence | Ultron cooperation proposal approved; name may reference Phalanx techno-organic concept `[FLAG-BASELINE]` |
+| Phalanx | Machine consciousness / Ultron | Machine Intelligence | GM-fabricated OC; shares name with published Phalanx species but is a distinct character (player-confirmed) |
 | Reader | Inhuman (Lor Tribe, Orollan) | `[VERIFY]` | Blind; reads Braille to manifest reality; accompanied by Forey |
 | Forey | Support Staff | Navigation/Reconnaissance | Reader's guide dog; technically a SalNet participant per "guy in the chair" rule |
 
@@ -537,7 +537,7 @@ These items appeared in summaries but need roleplay-text confirmation:
 
 3. **Dark vessels:** Unknown signature vessels with high sensor density. Grandmaster knows their purpose; SHIELD does not. What are they?
 
-4. **Phalanx:** In the 616-baseline I wrote this character as "Phlanax" with [GM-FABRICATED] flag. The actual session text uses "Phalanx" — which IS a published Marvel concept (the Phalanx techno-organic species from Annihilation Conquest). The name may be intentional. `[FLAG-BASELINE: update 616-baseline.md entry]`
+4. **Phalanx:** `[RESOLVED — player declaration]` GM-fabricated OC who shares the name with the published Phalanx techno-organic species (Annihilation Conquest) but is a distinct character. Name is coincidence or deliberate homage, not a reference to the published concept. 616-baseline.md updated accordingly.
 
 5. **Second Badoon invasion outcome (Week 160):** Session 15 shows the invasion alert and initial mobilization. Session 16 summary refers to "40 embassies" and Week 163 operations without explicitly confirming the outcome. Outcome is almost certainly a victory (given Week 163 stable operations), but the engagement details are in Session 15 roleplay text which wasn't read.
 
@@ -557,7 +557,7 @@ These items appeared in summaries but need roleplay-text confirmation:
 
 The following entries in `616-baseline.md` require updating based on Phase 1 extraction:
 
-1. **"Phlanax" → "Phalanx"** — `[DONE]` 616-baseline.md updated. The in-story name is "Phalanx." Whether this intentionally invokes the published Phalanx techno-organic species (Annihilation Conquest) remains `[VERIFY]` — the session text calls this character "machine consciousness / Ultron" affiliated, which could be either.
+1. **"Phlanax" → "Phalanx"** — `[DONE]` Name corrected throughout. Character is a GM-fabricated OC distinct from the published Phalanx techno-organic species — player-confirmed. 616-baseline.md updated.
 
 2. **Resurrection pods** — Baseline notes these are "possibly looted tech." Player declaration confirms: looted via Combat Alchemy. Update status from uncertain to confirmed Tier 1.
 
