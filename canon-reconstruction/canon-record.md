@@ -379,7 +379,7 @@ Enforcement: "Anyone who tries to take advantage gets the Hydra treatment." — 
 
 | Member | Affiliation | Role | Notes |
 |--------|-------------|------|-------|
-| Monica Rappaccini | AIM (reformed to qualify) | Research/Science | AIM Scientist Supreme |
+| Monica Rappaccini | AIM (former Scientist Supreme) | Research/Science | Led AIM's reformation; left AIM leadership to join crew; Forson now leads AIM |
 | Phalanx | Machine consciousness / Ultron | Machine Intelligence | GM-fabricated OC; shares name with published Phalanx species but is a distinct character (player-confirmed) |
 | Reader | Inhuman (Lor Tribe, Orollan) | `[VERIFY]` | Blind; reads Braille to manifest reality; accompanied by Forey |
 | Forey | Support Staff | Navigation/Reconnaissance | Reader's guide dog; technically a SalNet participant per "guy in the chair" rule |
@@ -464,9 +464,17 @@ All three have distinct voices and communication styles evident in roleplay text
 - Odin processing: "Bill writes: Earth offers partnership where empires offer patronage."
 - Zeus nervous about Olympus becoming irrelevant; Athena advocates expanded participation; Hercules serving as crew
 
+### AIM (Advanced Idea Mechanics)
+- Reformed to qualify for SalNet membership for two reasons (Tier 1 — player declaration):
+  1. Access to Salvage's multi-origin technology synthesis and auto-distribution benefits
+  2. To avoid the Hydra treatment — AIM recognized that Hydra-style hostility ends in total elimination by hunter-killer drone cascade
+- Monica Rappaccini led AIM through the reformation process, then joined Salvage's crew personally (Third Cohort, ~Week 78)
+- **Current AIM leader:** Forson
+- AIM participates in PoweredBeingNetwork (Week 163, forming)
+
 ### Doctor Doom / Latveria
 - Lucia von Bardas is Doom's crew representative
-- Doom: "AIM reformed to qualify" — similar organizational restructuring for access
+- Doom noted AIM's reformation as a model ("AIM reformed to qualify") — similar organizational restructuring logic applies to any actor wanting access
 - Doom will expect proportional crew representation if expansion proceeds
 - Doom understands Salvage's political constraint of legitimacy: same logic governs Latveria
 

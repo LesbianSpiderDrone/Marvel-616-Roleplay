@@ -106,21 +106,27 @@ Either way, it is a significant departure from 616 canon. In your story's univer
 
 ### AIM (Advanced Idea Mechanics)
 
-**What 616 says:** AIM is a scientific terrorist organization originally founded as a HYDRA offshoot, now independent. Their specialty is weapons of mass destruction, biological and chemical agents, and advanced technology. They created MODOK (Mental Organism Designed Only for Killing). Their current Scientist Supreme is **Monica Rappaccini**, who leads a faction independent of MODOK's control.
+**What 616 says:** AIM is a scientific terrorist organization originally founded as a HYDRA offshoot, now independent. Their specialty is weapons of mass destruction, biological and chemical agents, and advanced technology. They created MODOK (Mental Organism Designed Only for Killing). **Andrew Forson** has also served as AIM Scientist Supreme in published 616 (during the Hickman-era Avengers run). Monica Rappaccini is another Scientist Supreme who has led AIM at various points.
 
-**Canonical status:** AIM exists as an ongoing antagonist organization with fluctuating membership and internal power struggles. They've been purchased by heroes (Roberto da Costa / Sunspot briefly bought them) and reconstituted. They're not destroyed in any current storyline. `[616-CONFIDENT]`
+**Canonical status:** AIM exists as an ongoing antagonist organization with fluctuating membership and internal power struggles. `[616-CONFIDENT]`
 
-**Source:** [Monica Rappaccini — Marvel Database](https://marvel.fandom.com/wiki/Monica_Rappaccini_(Earth-616))
+**Story characterization:** AIM **reformed** in this story for two specific reasons:
+1. To access Salvage's multi-origin technology (the equipment synthesis and auto-distribution benefits available to SalNet members)
+2. To avoid the Hydra treatment — Salvage's hunter-killer drone elimination campaign that wiped out Hydra in four weeks. AIM recognized that continued hostile status meant the same outcome.
+
+**Current AIM leadership in-story:** **Forson** is in charge. Monica Rappaccini left AIM leadership to join Salvage's crew as Research/Science specialist (Third Cohort, ~Week 78). Her departure and the reformation were linked — she led AIM into SalNet compliance and then joined the crew personally.
+
+**Source:** Training data `[616-CONFIDENT]`; story characterization `[TIER 1 — player declaration]`
 
 ---
 
 ### Monica Rappaccini
 
-**What 616 says:** Monica Rappaccini is the **Scientist Supreme of AIM**. She is a world-class biochemist with a history predating her AIM leadership — she was briefly romantically involved with Bruce Banner (pre-Hulk) as a grad student, and exploited his radiation expertise. Her powers are biochemically derived: she's given herself total immunity to biological, chemical, and radiological weapons via synthetic memetic antibodies. She carries a phasing device in her belt for short teleports.
+**What 616 says:** Monica Rappaccini is a former **Scientist Supreme of AIM**. She is a world-class biochemist with a history predating her AIM leadership — she was briefly romantically involved with Bruce Banner (pre-Hulk) as a grad student, and exploited his radiation expertise. Her powers are biochemically derived: she's given herself total immunity to biological, chemical, and radiological weapons via synthetic memetic antibodies. She carries a phasing device in her belt for short teleports.
 
 Her relationship with MODOK is defined by mutual attempted murder. She's not a scientist who follows orders — she *is* the science, and the science answers to her.
 
-**Story role:** Your story uses her as an antagonist face for AIM encounters. This is accurate to her 616 role. `[616-CONFIDENT]`
+**Story role:** Former AIM leader who steered AIM's reformation (to access Salvage's tech and avoid Hydra-treatment elimination), then joined Salvage's crew as Third Cohort (~Week 78). Now serves as Research/Science specialist. Leadership of AIM passed to Forson upon her departure. `[616-CONFIDENT base; crew role TIER 1 — player declaration]`
 
 **Source:** [Monica Rappaccini — Marvel Database](https://marvel.fandom.com/wiki/Monica_Rappaccini_(Earth-616)), [Monica Rappaccini — Wikipedia](https://en.wikipedia.org/wiki/Monica_Rappaccini)
 
