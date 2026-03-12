@@ -19,6 +19,7 @@ Recorded from the initial canon reconstruction briefing conversation. These are 
 - **Sensory experience on activation:** None. No sensation, no feedback.
 - **Origin:** Granted by the Grandmaster via Iso-8 at Week 0.
 - **Player note on surprise outputs:** "I don't know how to answer that" — question about whether the power ever produced something surprising was not answerable by the player. This suggests the power's intelligence layer was largely handled by the GM without explicit player-facing anomalies being called out.
+- **Superseded mechanic — Intent Responsiveness:** The original session 1 power description included a mechanic where the wielder could influence generation direction through focused intent. This was deliberately cut. The power now assesses and generates entirely automatically; the wielder does not direct it. Early-session references to intent-direction are superseded, not current canon.
 
 ---
 
