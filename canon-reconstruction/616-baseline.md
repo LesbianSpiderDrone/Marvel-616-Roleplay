@@ -252,13 +252,15 @@ The Guardians of the Galaxy's 2020 run (Al Ewing) featured Hercules as a member 
 
 ---
 
-### Phlanax (Ultron's Child)
+### Phalanx (Ultron's Child)
 
-**What 616 says:** Ultron is the robot AI created by Hank Pym who repeatedly attempts to exterminate humanity. He has created several synthetic children and heirs over the years. The most notable is **Vision** (who predates this framing) and **Jocasta**. Ultron has also created or adopted figures like **Alkhema** and **Antigone** as his "daughters."
+**What 616 says:** Ultron is the robot AI created by Hank Pym who repeatedly attempts to exterminate humanity. He has created several synthetic children and heirs over the years. The most notable is **Vision** (who predates this framing) and **Jocasta**. Ultron has also created or adopted figures like **Alkhema** and **Antigone** as his "daughters." The **Phalanx** is also a published concept in 616 — a techno-organic alien species that converts other beings into cybernetic drones (prominent in Annihilation: Conquest). Whether the story character "Phalanx" references this species, is Ultron's child, or is something else has not been confirmed from session text.
 
-**Story characterization — FLAGGED:** "Phlanax" does not correspond to any known Ultron offspring in published 616. Ultron's canonical children include Jocasta, Alkhema, Victor Mancha, and Antigone. "Phlanax" is **almost certainly a fabricated character** — an OC created by the GM for your story. The *concept* of Ultron's child navigating personhood is consistent with 616 themes, but this specific character and name have no published source. `[616-UNCERTAIN]` — likely GM-fabricated.
+**Story characterization:** The crew member called "Phalanx" is described as "machine consciousness / Ultron" affiliated, arrived via the Ultron cooperation proposal that was under SHIELD institutional review before Week 82. This is a GM-created character; whether the name intentionally invokes the Phalanx techno-organic species (which would change the classification) is `[VERIFY]`.
 
-**Source:** Training data knowledge of Ultron's canonical offspring `[616-PROBABLE]`; "Phlanax" not found in any published source `[GM-FABRICATED flag]`
+**Name correction note:** Earlier reconstruction documents used "Phlanax" — this is a typo. The correct in-story name is "Phalanx."
+
+**Source:** Training data knowledge of Ultron's canonical offspring `[616-PROBABLE]`; Phalanx species `[616-CONFIDENT]`; this specific crew character as Ultron's child `[GM-FABRICATED or GM-ADAPTED]`
 
 ---
 
@@ -388,7 +390,7 @@ The following elements from your story have **no direct 616 counterpart** — th
 | Hydra permanently eliminated | Story fact (Tier 1 or 3) | Contradicts 616's Hydra-always-returns pattern |
 | Cecilia Reyes as Brotherhood spy | GM world-building | No 616 basis; contradicts her canonical X-Men loyalty |
 | Lucia von Bardas as cooperative crew | GM world-building | She is a villain in 616, not a reformed ally |
-| Phlanax (Ultron's child) | GM-fabricated OC | No published Ultron offspring by this name |
+| Phalanx (crew member, Ultron-adjacent) | GM-fabricated/adapted | Character name corrected from "Phlanax"; may invoke published Phalanx species `[VERIFY]` |
 | Resurrection pods (looted tech) | GM world-building | Closest 616 parallel is Krakoa's Five; this is distinct |
 | 736-vessel fleet | Player/GM world-building | No published Earth-based individual has this |
 | Andromeda as "Namor's personal representative" | Possible GM framing | She's Atlantean but more independent in canon |

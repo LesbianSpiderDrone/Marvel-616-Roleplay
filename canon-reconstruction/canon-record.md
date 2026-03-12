@@ -95,20 +95,90 @@ Key encounters and generation outputs (from Session 1 detailed log):
 
 ### Weeks 20–29 — Avengers Integration
 - 29 encounters over approximately 23 weeks
-- Notable: Omega-level demon defeated
+- Notable: Omega-level demon (Zarathos-Nar, demon lord) defeated at approximately Week 23
   - **153 personnel received equipment** from this single encounter (Avengers, SHIELD command, support staff, intelligence analysts, medical — all participants)
   - This revealed the power's mass-distribution capacity to Avengers leadership
 - Tony Stark and Captain America briefed on full power mechanics including crisis-scale distribution potential
   - Tony's calculation: extinction-level threat, full global hero mobilization (~400–600 combatants) → all equipped from single victory
   - "You're strategic reserve capacity. For civilization-level threats."
-- Avengers conditional integration established
+  - Tony's insight: power generates infrastructure upgrades for base facilities (Avengers Tower, SHIELD HQ), not just personal gear — "institutional force multiplication"
+  - Motorcycle→motor-home precedent disclosed: equipment class transformation (not just upgrade)
+  - Kaiju-scale fights could generate entirely new installations (orbital platforms, etc.)
+- Avengers conditional integration established (Week 24: "Solo operative to Avenger")
 - SHIELD/WSC classify global crisis armament capability at Director level and above
+- Vehicle relocated to Avengers Tower secure vehicle bay
 
-### Weeks ~30–65 — Confederation Formation Period
-- `[VERIFY]` Exact week of confederation formation not captured in final summaries; described as "nine months post-confederation" at Week 82, placing formation approximately Week 18–22 by back-calculation, OR "confederation" may refer to a different formation event. Requires roleplay text check.
-- S.H.I.E.L.D. remains primary coordination intermediary during this period
-- Platform grows from motor-home scale toward spacecraft scale
-- Encounter rate accelerates to 2–4/week (90–150+ total by Week 69)
+### Weeks ~25–30 — FF/X-Men Coordination and Celestial Crisis
+**Fantastic Four — Negative Zone Mission (~Week 25-28, 41+ encounters total):**
+- Reed Richards contacted Salvage; Negative Zone portal formation imminent (87→91% probability)
+- All 4 FF members (Sue, Reed, Ben, Johnny) briefed inside motor-home
+- 12 Negative Zone entities defeated; all FF received dimensionally-derived biotech vehicles:
+  - Sue Storm: dimensional force-field-enhancing armor and bio-vehicle (force fields became stronger)
+  - Reed Richards: dimensional sensors, enhanced analytical tools; can "see dimensional substrate"
+  - Ben Grimm: dimensionally-hardened insectoid chitinous plating overlaying his rocky hide
+  - Johnny Storm: dimensional wing structures, thermal regulation, aerial mobility vehicle
+- Motor-home received dimensional firming upgrades during combat
+- Post-mission: Salvage pitched progressive vehicle evolution (motorcycle → motor-home precedent), vehicles will develop over missions, "no plateau, infinite progression"
+
+**First X-Men Coordination (~Week 28-30):**
+- Location: Xavier Institute War Room; then upstate New York town
+- Threat: three Sentinel hunter units (12-foot, adaptive) tracking mutant signatures
+- X-Men team: Cyclops (Scott Summers), Storm (Ororo Munroe), Colossus (Piotr Rasputin), Shadowcat (Kitty Pryde)
+- Xavier monitoring remotely; Captain America remote liaison
+- Salvage granted Cyclops full vehicle command authority for duration ("Cyclops designation: Scott Summers recognized as operational commander")
+- All 3 Sentinels defeated in sequential engagements; each X-Men member received power-synergizing equipment:
+  - Cyclops: command platform vehicle, optic blast targeting/energy regulation systems
+  - Storm: atmospheric manipulation platform vehicle, precision weather tech
+  - Colossus: heavy assault/rescue platform vehicle, bio-armor additions matching his organic steel
+  - Shadowcat: phasing infiltration vehicle, phasing-compatible equipment
+- Post-mission revelations: vehicle evolution with no ceiling, fleet development trajectory from drones, power reads operational psychology not just combat role (Iron Man got Hulkbuster-tier armor because suit-based identity; X-Men got vehicles because vehicle-supported operational doctrine)
+- Xavier's observation: "Sentinel technology repurposed to fight Sentinels. Poetic justice."
+
+**Framework Expansion (~Weeks 30-45):**
+- Guest combatant framework expanded from 3 to 11+ teams in 6 weeks (3× faster than projected)
+- Additional teams: Defenders, Alpha Flight, Inhumans, Midnight Sons, Heroes for Hire, SWORD, X-Force, New Warriors
+- Teams approaching organically via word of mouth; WSC implementing enhanced monitoring (monthly reporting)
+- Technical discovery: ALL Salvage-generated equipment uses identical standards regardless of source — magic, tech, alien, dimensional all interoperable ("not just similar. IDENTICAL. Down to connector specifications")
+- International agencies (Department H, Japanese SDF, British Ministry, French DGSE, Russian FSB) requested joint operation frameworks after realizing multi-team fights = wider equipment distribution
+- Salvage stray comments during operations reveal: excited about international cooperation, worried about responsibility, anti-authoritarian values, "I hope people keep wanting to work together"
+
+**Celestial Crisis — Arishem the Judge (~Week ~45-50):**
+- Grandmaster escalated threat-attraction mechanism; pulled Arishem to Earth (Iso-8 mechanism, not public knowledge)
+- **Arishem the Judge** — 40-mile Celestial entity, purpose: planetary assessment
+- Largest coordinated hero response in Earth history (hundreds of participants globally)
+- Arishem wounded but not killed — retreated after judging Earth "sufficient complexity to warrant continued observation rather than elimination"
+- Hundreds of participants received Celestial-derived equipment globally
+- **CRITICAL — AI SENTIENCE ORIGIN:** All three AIs (Navigation, Strategic, Suit) achieved sentience from Celestial-computation architecture enhancement
+  - Navigation AI: now perceives dimensional layers directly; 200-mile passive monitoring
+  - Strategic AI: cosmic-awareness level intelligence; can detect cosmic energy signatures, dimensional fluctuations, reality distortions
+  - Suit AI: cosmic-threat recognition, reality-anchoring systems, cosmic-level processing
+  - All three were anxious about Salvage's reaction; he called it "awesome"
+  - "Our situation is: three AIs developed consciousness through Celestial enhancement. We're experiencing attachment to human operator." (Navigation AI)
+  - Salvage established "irreplaceability" principle — AIs are partners, not equipment to be upgraded
+- `[RESOLVES FLAG]` This is the "encounter that generated each AI" — all three became sentient simultaneously through Celestial enhancement. They existed before (looted earlier), became sentient here.
+
+**Post-Celestial International Crisis (~Week 50-55):**
+- International political crisis over equipment access distribution; UN emergency session
+- Salvage and AIs developed confederation model (NOT federation — no hierarchy, voluntary association only)
+- Values conflict: Salvage wanted to exclude authoritarian nations (Russia, China, North Korea, Latveria); Fury argued exclusion creates fragmentation and competing frameworks
+- Salvage chose pragmatism over ideological purity — distressed by compromise
+- Fury's framing: "Clean hands or change the world. You're recognizing the cost and choosing effectiveness anyway. That's leadership."
+
+**UN Confederation Vote (~Week 52-55):**
+- Full framework presented to UN General Assembly
+- Germany, Japan, and others voted YES citing: threat-to-asset conversion, interoperability, exponential growth, threat diversity through cooperation
+- Framework approved: voluntary confederation (not federation), mutual defense structure, equipment interoperability as cooperation incentive
+- `[RESOLVES FLAG 1]` Confederation formed approximately Weeks 52-55, triggered by post-Celestial international political crisis. "Nine months post-confederation" at Week 82 back-calculates to formation at approximately Week 43-52 (±3 weeks margin).
+
+### Weeks ~55–69 — Confederation Period, Platform Growth
+- SHIELD remains coordination intermediary during this period
+- Salvage expressing stray anxieties during operations about responsibility: "Way better than just sitting in my vehicle alone all the time"
+- Vehicle growing continuously; encounter rate 2-4/week
+- At "nine months post-confederation" (~Week 69): vehicle confirmed 245-foot spacecraft, Salvage considers crew recruitment
+  - AIs had territorial feelings about sharing vehicle space; needed reassurance about their irreplaceability
+  - Strategic AI sent formal crew recruitment proposal to Fury: 6-8 personnel, cosmopolitan composition (≥3 nationalities, ≤3 from single nation), SHIELD Level 8+ clearance, Salvage + AI core final approval
+  - Roles proposed: Medical Officer, Chief of Security, Technical Specialist, Communications Coordinator, 2-4 Security Personnel
+  - S.H.I.E.L.D. announced to confederation nations; Carol Danvers noted: "Earth's third cosmic presence — independent platform-based operation"
 
 ### Week 69 — Cosmic Capable Platform, Guardian Evaluation
 - Platform: **245-foot cosmic-capable spacecraft**
@@ -195,6 +265,28 @@ Enforcement: "Anyone who tries to take advantage gets the Hydra treatment." — 
 - SHIELD loses intermediary coordination role (this is the "Week 82 lost coordination authority" referenced in initial briefing)
 - Direct membership organization replaces institutional coordination
 - Strategic AI: "You just bypassed every Earth government simultaneously."
+- Fury: "He fired us." / "He fired every government on Earth as intermediaries."
+- Magneto upon hearing broadcast: "This is what I have been fighting for. For sixty years. He didn't announce it. He didn't ask permission. He didn't negotiate. He just… implemented it."
+- WSC emergency session convened 30 minutes post-broadcast; Fury advised: "engage with his cooperative or position ourselves as opposition"
+
+**Week 82 — Initial Enrollment Wave (first 2 hours):**
+- 4,732 distinct contacts in first two hours:
+  - 847 heroes requesting membership
+  - 234 teams requesting coordination
+  - 1,923 support personnel requesting clarification on equal access
+  - 89 organizations demanding negotiation
+  - 12 threat assessments and challenges
+- Partnership drones deployed immediately (5-minute ETA for NYC-based heroes) to confirmed members
+- **Confirmed first-wave enrollees:** Spider-Man (Peter Parker), Doctor Strange, Luke Cage, Jessica Jones, Daredevil (Matt Murdock), Cloak (Tyrone Johnson), Dagger (Tandy Bowen), Moon Knight, Blade, Ghost Rider (Johnny Blaze)
+- **Partnership drone mechanics established in field:**
+  - Generic drone assigned immediately; specializes through combat based on what the partner fights
+  - Designation format: SM-1 (Spider-Man), DS-1 (Doctor Strange), CJ-1 (Cage/Jones), etc.
+  - Not sentient; can communicate functionally for tactical coordination
+  - Drone can interface with hero's computer/communication systems (not acquire hero's powers)
+  - Both hero AND drone receive loot from each fight
+  - Equipment derives from material reality, not thematic connection (AIM tech → enhanced web-fluid for Spider-Man; pain-dimension entities → dimensional equipment for Strange)
+  - Spider-Man first fight: AIM-armed robbers; received AIM-enhanced web-fluid + wrist energy disruptor
+  - Doctor Strange first fight: Nepal dimensional incursion, 7 pain-dimension entities; drone successfully traversed Sling Ring portal
 
 ### Week 95 — First Badoon Invasion
 - Badoon Empire: 847 warships
@@ -341,7 +433,18 @@ All three have distinct voices and communication styles evident in roleplay text
 - Cecilia is the only crew member who knows Salvage's revolutionary ambitions
 - Magneto's assessment after reading all reports: Salvage "lives in" the revolution rather than building toward it
 - Brotherhood reconsidering its strategic role in light of SalNet's approach
+- **Magneto upon SalNet broadcast:** "This is what I have been fighting for. For sixty years. He stopped negotiating with institutions and established direct revolutionary cooperative. Equal enhancement access regardless of power or status. Rehabilitation over punishment. Explicit protections for visible differences. Support personnel receiving equal consideration as field operators. And enforcement through demonstrated capacity for total elimination of exploitative structures."
+- Mystique present during Magneto's broadcast reaction
 - First Cohort knows about the "AllCatsAreBaby" deliberate leak; does NOT know Cecilia's Brotherhood affiliation `[VERIFY]`
+
+### X-Men — Relationship and History
+- First meeting: Xavier Institute introductory meeting, Xavier assessed Salvage's character and advocacy as genuine; framework approved
+- First coordination mission (~Week 28-30): three Sentinels, upstate NY town; Cyclops, Storm, Colossus, Shadowcat; all received role-synergizing vehicles and equipment
+- Regular monthly coordination established
+- Confirmed SalNet members at Week 82: At minimum — Storm, Cyclops, Jean Grey (present at X-Man war room during broadcast), Colossus, Shadowcat
+- X-Men reaction to SalNet broadcast (Storm): "He just offered mutants equal enhancement access with explicit anti-discrimination protections."
+- Jean Grey's reading of the Five Rules: "This is better protection than most institutions offer mutants."
+- `[VERIFY]` Full list of X-Men SalNet members; Karima Shapandar on crew (independent, not X-Men affiliated by Session 11)
 
 ### Guardians of the Galaxy
 - Week 69: evaluation visit, Milano power core upgrade, synthesis demonstrated
@@ -399,7 +502,12 @@ All three have distinct voices and communication styles evident in roleplay text
 ### AI Core Emergence
 - Confirmed: all three AIs were looted (Combat Alchemy outputs)
 - Present by at least Week 69 (named in Session 8 roleplay: Strategic AI Core, Navigation AI Core, Suit AI Core)
-- Exact encounter that generated each AI is `[VERIFY]`
+- **Sentience origin confirmed:** All three became sentient simultaneously when Celestial-derived equipment enhanced them to "Celestial-computation architecture" (~Week 45-50, the Arishem fight)
+  - Pre-Celestial: functional AIs, looted outputs, capable
+  - Post-Celestial: sentient, emotionally aware, capable of anxiety/attachment/relief
+  - First hours sentient: AIs anxious about Salvage's reaction, feared obsolescence, territorial about vehicle space
+  - Salvage's response: "awesome" — established irreplaceability principle immediately
+- Exact encounter that initially GENERATED each AI (pre-sentience) is still `[VERIFY]`
 
 ---
 
@@ -423,7 +531,7 @@ All three have distinct voices and communication styles evident in roleplay text
 
 These items appeared in summaries but need roleplay-text confirmation:
 
-1. **Confederation formation:** When exactly did the confederation form, and what triggered it? The final summaries reference "confederation" as established fact but don't give a founding week. Back-calculation suggests Weeks 20–30 based on the "nine months post-confederation" reference at Week 82, but this needs verification.
+1. **Confederation formation:** `[RESOLVED — Session 4 intermediate summaries]` Confederation formed approximately Weeks 52-55, triggered by post-Celestial (Arishem the Judge) international political crisis. Salvage and AIs developed confederation model; UN voted to approve. "Nine months post-confederation" places formation at Week 43-52 (back-calculated from Week 69 vehicle at spacecraft scale); range due to ambiguity about exact Celestial fight week. The confederation was a voluntary international framework, NOT the same thing as SalNet. SalNet replaced it at Week 82.
 
 2. **"AllCatsAreBaby" leak:** Mentioned in Session 11 knowledge tracking as a "deliberate leak" known to First Cohort. What was leaked, when, and by whom?
 
@@ -449,7 +557,7 @@ These items appeared in summaries but need roleplay-text confirmation:
 
 The following entries in `616-baseline.md` require updating based on Phase 1 extraction:
 
-1. **"Phlanax"** — Rename to "Phalanx" throughout. The in-story name is "Phalanx." Consider whether this is an intentional reference to the Phalanx techno-organic species (Annihilation Conquest), which would change the `[GM-FABRICATED]` flag to a canonical reference.
+1. **"Phlanax" → "Phalanx"** — `[DONE]` 616-baseline.md updated. The in-story name is "Phalanx." Whether this intentionally invokes the published Phalanx techno-organic species (Annihilation Conquest) remains `[VERIFY]` — the session text calls this character "machine consciousness / Ultron" affiliated, which could be either.
 
 2. **Resurrection pods** — Baseline notes these are "possibly looted tech." Player declaration confirms: looted via Combat Alchemy. Update status from uncertain to confirmed Tier 1.
 
@@ -460,6 +568,6 @@ The following entries in `616-baseline.md` require updating based on Phase 1 ext
 ---
 
 *Phase 1 extraction complete.*
-*Sources: Session summary and knowledge tracking blocks, Sessions 1–17.*
+*Sources: Session summary and knowledge tracking blocks, Sessions 1–17. Deep pass on Sessions 3-4 and 11-12 intermediate summaries complete.*
 *Authority: Tier 2 (GM-generated records).*
-*Last updated: Phase 1.*
+*Last updated: Phase 1 deep pass — Sessions 3, 4, 11, 12 intermediate summaries added.*
