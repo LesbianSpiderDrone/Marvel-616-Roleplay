@@ -468,13 +468,15 @@ All three have distinct voices and communication styles evident in roleplay text
 - Reformed to qualify for SalNet membership for two reasons (Tier 1 — player declaration):
   1. Access to Salvage's multi-origin technology synthesis and auto-distribution benefits
   2. To avoid the Hydra treatment — AIM recognized that Hydra-style hostility ends in total elimination by hunter-killer drone cascade
+- **Doom influenced AIM to reform** (Tier 1 — player declaration)
 - Monica Rappaccini led AIM through the reformation process, then joined Salvage's crew personally (Third Cohort, ~Week 78)
 - **Current AIM leader:** Forson
 - AIM participates in PoweredBeingNetwork (Week 163, forming)
 
 ### Doctor Doom / Latveria
 - Lucia von Bardas is Doom's crew representative
-- Doom noted AIM's reformation as a model ("AIM reformed to qualify") — similar organizational restructuring logic applies to any actor wanting access
+- **Doom influenced AIM's reformation** — leveraged his relationship with AIM to steer them toward SalNet compliance
+- Doom noted AIM's reformation as a model — similar organizational restructuring logic applies to any actor wanting access
 - Doom will expect proportional crew representation if expansion proceeds
 - Doom understands Salvage's political constraint of legitimacy: same logic governs Latveria
 

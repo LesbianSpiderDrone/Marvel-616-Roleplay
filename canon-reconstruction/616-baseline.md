@@ -114,7 +114,9 @@ Either way, it is a significant departure from 616 canon. In your story's univer
 1. To access Salvage's multi-origin technology (the equipment synthesis and auto-distribution benefits available to SalNet members)
 2. To avoid the Hydra treatment — Salvage's hunter-killer drone elimination campaign that wiped out Hydra in four weeks. AIM recognized that continued hostile status meant the same outcome.
 
-**Current AIM leadership in-story:** **Forson** is in charge. Monica Rappaccini left AIM leadership to join Salvage's crew as Research/Science specialist (Third Cohort, ~Week 78). Her departure and the reformation were linked — she led AIM into SalNet compliance and then joined the crew personally.
+**Doom's role:** Doctor Doom influenced AIM to reform. `[TIER 1 — player declaration]`
+
+**Current AIM leadership in-story:** **Forson** is in charge. Monica Rappaccini led AIM into SalNet compliance and then joined Salvage's crew personally as Research/Science specialist (Third Cohort, ~Week 78).
 
 **Source:** Training data `[616-CONFIDENT]`; story characterization `[TIER 1 — player declaration]`
 
