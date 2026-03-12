@@ -46,7 +46,7 @@ Salvage has three distinct AIs:
 
 **Relational status:** Salvage treats them like people. Given that he has no close personal relationships with crew members, these AIs are his primary interlocutors in any ongoing relational sense. They are not persons, but he relates to them as if they are.
 
-**Note:** These AIs were presumably Combat Alchemy outputs (at sufficient progression, generating AI systems is consistent with the power's technology-derivation logic), but this has not been confirmed. Flagged for Phase 1 extraction.
+**Origin:** Confirmed Combat Alchemy outputs — they were looted.
 
 ---
 
@@ -63,15 +63,18 @@ Salvage has three distinct AIs:
 - **Number:** 2,847
 - **What "metaphysically bound" means:** They carry the same Combat Alchemy power Salvage does.
 - **Physical nature:** Warships, jets, and similar autonomous military hardware. Not small personal drones.
-- **Control model:** Salvage controls them directly or sends them on unsupervised missions. These are NOT the "drone with assigned partner" distribution model described in the Combat Alchemy rules. The partner-distribution mechanic either hasn't manifested yet or applies to a different category of asset.
-- **Implication:** Each platform can loot from combat as Salvage does. At this scale, the power is not just a personal ability — it is a distributed military force, each unit generating loot. Who receives loot from platform-kills (given the absence of an assigned partner structure) is unresolved.
+- **Control model:** Salvage commands them directly during invasions. Routine operations run on autopilot. He is not actively monitoring 2,847 units moment-to-moment; he activates command posture when the operational situation warrants it.
+- **Operational psychology implication:** Salvage's identity as assessed by Combat Alchemy is a strategic commander — someone who builds and maintains a large autonomous force and activates direct control only when the threat level requires it. The power has been building toward this for 163 weeks.
+- **Distribution model:** These are NOT the "drone with assigned partner" mechanic from Combat Alchemy rules. Partner-distribution either hasn't manifested, applies to a different asset category, or is not in use. Who receives loot from unsupervised platform kills is unresolved — flagged for Phase 1.
+- **Implication at scale:** The power is not just a personal ability. It is a distributed military force, each unit generating loot.
 
 ---
 
 ## The Embassy Program
 
-- **Origin:** NOT derived from Combat Alchemy. Arose from some other mechanism — player initiative, political negotiation, or GM world-building. The specific origin is flagged for Phase 1 extraction.
-- **What it is not:** Do not attribute this to power output. It is not looted infrastructure.
+- **Function:** Locations where SalNet members do humanitarian work. Primarily operational, not political.
+- **Origin:** NOT derived from Combat Alchemy. Specific origin flagged for Phase 1 extraction.
+- **What it is not:** Not looted infrastructure. Not a power output.
 
 ---
 
