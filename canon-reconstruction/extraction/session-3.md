@@ -944,54 +944,193 @@ Full material composition (JARVIS analysis): Chitauri alloy, Kree crystalline ma
 
 ## Category 8: Universe Rules & Systems
 
-*(Stub — full detail in Pass 4)*
+### 8A. Rules Established or Confirmed This Session
 
-Key rules established this session:
-- Hero ethics: responsive vs. proactive engagement
-- "Hero work" definition (per Steve Rogers)
-- Guest Combatant Framework model
-- Threat attraction mechanism (Iso-8 broadcast, accelerating)
-- Grandmaster's Iso-8 designed endpoint
-- WSC oversight classification system
+---
+
+**Rule: "Hero Work" Definition (formally codified)**
+
+Salvage's stated personal criterion for participation in group operations: "hero work." Defined in framework documentation as:
+- Non-profit mission
+- Civilian protection mandate
+- Governmental authorization OR established hero community recognition
+- Adherence to international law
+
+Explicitly excludes: mercenary operations, foreign military aggression outside UN authorization, corporate private security (regardless of stated mission), criminal organizations. Salvage's extension: personal relationships with co-participants not required — can act as equipment catalyst for people he's never met (demonstrated with 143 SHIELD agents). "I don't have to like the people I am working with."
+
+**This rule is in-universe law, not just player preference.** The framework documentation formalizes it. SHIELD, Avengers, X-Men, and FF have all accepted it as the operating criterion.
+
+---
+
+**Rule: Threat Attraction Mechanism**
+
+Iso-8 broadcasts a signal that draws enhanced hostile entities to Salvage's operational area. Threat attraction radius growing at 14% week-over-week. Salvage does not know this is happening. He believes he is "just always busy." This is a designed Iso-8 mechanism, not a coincidence. Grandmaster's knowledge; not shared with any in-story character.
+
+---
+
+**Rule: Iso-8 Designed Endpoint**
+
+The entire Iso-8 system (looting power, threat attraction, compounding, Suit AI generation) was designed for eventual cosmic-scale encounters. Earth threats are a progression phase. The designed endpoint is the class of threat that includes Galactus and Celestials. This is Grandmaster's knowledge only.
+
+---
+
+**Rule: WSC Classification Hierarchy**
+
+- COSMIC TOP SECRET: highest classification (above TOP SECRET)
+- Information restriction: Director level and above only (Fury, select SHIELD command staff, Avengers senior leadership, WSC members)
+- SALVAGE is the first entity assigned this classification in this story
+- WSC oversight activates for "global crisis" (extinction-level, international mobilization) scenarios; routine operations are SHIELD/Avengers
+
+---
+
+**Rule: Guest Combatant Framework Mechanics**
+
+1. Either party (Salvage or host organization) identifies appropriate threat
+2. Joint authorization: both organizations approve specific deployment
+3. Chain of command: host organization leads; Salvage embeds as support — separate chains
+4. Salvage provides combat support and post-victory equipment generation
+5. Generated equipment distributed to all participants (per established power mechanics)
+6. No ongoing membership or obligation — each operation is authorized separately
+
+---
+
+**Rule: Information Asymmetries (standing session rules)**
+
+| Party | Does NOT know |
+|---|---|
+| Salvage | Iso-8 origin; Grandmaster's existence; threat attraction mechanism; WSC briefing (until Tony discloses it this session); full scope of SHIELD surveillance |
+| SHIELD (initially) | That 7 of 28 incidents were capture attempts rather than combat encounters; full vehicle capability scope; Suit AI sentience |
+| Avengers (initially) | SHIELD arrangement details; specific encounter history; homeless assistance pattern; threat attraction; Iso-8 |
+| All in-story characters | That Grandmaster exists |
+| Grandmaster | Nothing relevant — he monitors all feeds |
+
+**Critical standing rule:** GM never writes Salvage's lines. Ever. ("never never never never never never never ever do my lines.")
+
+---
+
+**Rule: Power Timing**
+
+Generation occurs only AFTER combat is concluded, not during. (Player-stated in OOC note: "It only happens after combat, not during. If you pick a swarm enemy then each downed enemy can be looted on the spot mid-combat. Pick a single unified threat.") For unified threats like Zarathos-Nar, all generation happens on corpse-contact post-victory.
 
 ---
 
 ## Category 9: Player Declarations
 
-*(Stub — full list in Pass 4)*
+These are explicit OOC instructions from the player that establish standing rules, corrections, or world-state choices.
+
+| Declaration | Source Line | Rule Established |
+|---|---|---|
+| "He is saying 'what if SHIELD gave me artillery cannons?' NOT 'what if I looted artillery cannons?' Please do not get confused." | Week 20 SHIELD proposal | Salvage's arming proposal is about SHIELD providing seed equipment, not looting artillery. Distinct from power generation. |
+| "Be aware of information asymmetries." | Multiple locations | Standing rule: All four major POV parties (Salvage, SHIELD, Avengers/other heroes, Grandmaster) have different information states. Must be maintained. |
+| "Do not default to MCU behaviors. Stick to Earth 616 characters and canonical behaviors." | OOC at Zarathos-Nar scene | 616 fidelity is mandatory. MCU characterizations are not acceptable substitutes. |
+| "It only happens after combat, not during." | Zarathos-Nar OOC | Power timing rule — generation is strictly post-combat. |
+| "Pick a single unified threat that can be killed like a demon lord or whatever." | Zarathos-Nar OOC | Swarm enemies vs. unified enemies have different generation timing; player chose unified threat specifically. |
+| "The entire enemy's body gets consumed and all of the mass gets converted into loot." | Zarathos-Nar OOC | Full mass conversion, not partial. |
+| "If it is a skyscraper sized threat then people don't just get magic knives. They get vehicles and whatever that meets their needs made out of the type of substance the threat is made out of." | Zarathos-Nar OOC | Mass scaling is literal — large threat = large-scale equipment, not just better quality personal gear. |
+| "Spider-Man doesn't need a truck. Spider-Man needs a vehicle that can travel the way he does." | Zarathos-Nar OOC | Role-appropriateness applies to mobility/function, not just equipment category. |
+| "Never do my guy's lines ever." (stated repeatedly as "never never never never never never never ever") | Multiple throughout | GM prohibition: must never write Salvage's dialogue or internal thoughts. Only his actions (from external perspective) may be narrated. |
+| "We are not writing fan fiction here." | Week 20 opening | Characters behave professionally and realistically, not in exaggerated/performative ways. SHIELD doesn't "go super crazy paranoid spy mode" about browser history. |
+| "He seems to be a bit insane because he lists off mortality and being a singular person as limitations." (followed by in-story clarification) | SHIELD proposal response | Salvage's long-term power extrapolation (including mortality resolution) is treated as sincere future-planning, not delusion. SHIELD assesses it seriously. |
+| "He is trying to avoid being crass." (Xavier visit) | Xavier Institute scene | Salvage's nervousness and awkward phrasing at the Xavier Institute is character-state, not incompetence. He communicates better through text. |
+| "Salvage is 'visibly' happy to be here, psychically speaking." | Xavier Institute scene | Xavier's passive emotional sensing of Salvage's happiness is canonical to the scene. |
+| "Keep the information asymmetries intact." | Multiple as standing reminder | Restated throughout session — information asymmetry is a continuous active constraint, not a one-time note. |
 
 ---
 
 ## Category 10: Unresolved Threads
 
-*(Stub — full list in Pass 4)*
+These are narrative elements active at session end that have not been resolved.
+
+| Thread | Status | Context |
+|---|---|---|
+| Negative Zone incursion | Imminent (session ends mid-briefing Day 8) | Reed and Sue are conducting pre-briefing on entry/exit protocols, dimensional hazards, Blastaar territorial patterns. First FF/Salvage joint operation. |
+| Ohio Sentinel manufacturing facility | Projected within 2 weeks | Cyclops designated command. X-Men field team (including Jean Grey, per Storm's mention) will meet Salvage on return. First X-Men/Salvage joint operation. |
+| Stark R&D support (recursion activation) | Active but not yet demonstrated | Tony committed Stark Industries R&D support to improve Salvage's baseline loadout. The recursion theory has been stated but not tested. |
+| Doctor Strange mystical oversight | Established but not yet formalized | Strange has mystical oversight condition on his yes vote. What this looks like in practice has not been defined. |
+| Suit AI name/designation | Open question | Tony asked if the AI wants a name. The AI said it doesn't know if it has preferences about self-designation. "This is new consideration." The question is unresolved. |
+| Suit AI developmental ceiling | Unknown | JARVIS projects: encounter 50 = human-level general AI across all domains; encounter 75 = superintelligence threshold; encounter 100+ = projections unreliable. No in-story character knows this will happen. |
+| AIM partial scan data | Concern flagged, no resolution | Hawkeye noted AIM brought scanning equipment during week 11 capture attempt. They may have partial scan data on how the power works. Not followed up. |
+| Hostile acquisition attempt (probability 67%) | Active threat | Grandmaster's model: 67% probability of sophisticated acquisition attempt within 30 days. The public Omega battle disclosure means every intelligence agency has now reassessed Salvage from "unknown combatant" to "strategic asset." |
+| Forum activity → broader community | Flagged but unresolved | Salvage's mutant rights advocacy forum posts were disclosed to Xavier, Storm, and Reed. What happens when those posts circulate more widely is unaddressed. |
+| SHIELD quarterly assessments | Framework established | WSC mandated quarterly capability assessments. First one not yet scheduled. |
+| WSC "loyalty deviation" trigger | Active contingency | WSC condition: "first indication of loyalty deviation, we reconvene immediately." What constitutes deviation is undefined. |
+| Mercury's Sentinel alloy recognition | Emotional scene, no follow-up | Cessily recognized Sentinel alloy on Salvage's shoulder. The dormitory debate it sparked (Mercury/Bobby) is unresolved character development. |
+| Salvage's mortality extrapolation | Assessed by SHIELD, not disclosed | Hill's analysis: solving mortality = defeating something immortal. Fury knows. Not disclosed to Avengers. Not disclosed to Salvage. |
 
 ---
 
 ## Category 11: Tone & Genre Markers
 
-*(Stub)*
+**Genre:** Superhero procedural with cosmic stakes underpinning. This session shifts from solo survival/progression (Sessions 1–2) into institutional integration.
+
+**Institutional register:** A large portion of the session is bureaucratic/diplomatic — meetings, frameworks, votes, briefings, documentation. The tone is professional competence. People do their jobs well. SHIELD doesn't overreact. The Avengers do proper integration assessment rather than just welcoming Salvage impulsively. The WSC asks the right questions. This is the 616 institutional structure functioning as designed.
+
+**Information asymmetry as genre device:** The Grandmaster's POV sections function as the reader's omniscient layer. We know what the characters don't. The Iso-8, the threat attraction, the designed endpoint — these are horror/dramatic irony elements underneath the functional competence of the main characters.
+
+**Character humor register:** Understated throughout. Tony's impatience (walks toward vehicle before vote is finished). Peter's barely-contained enthusiasm ("WHAT IS HAPPENING"). Ben Grimm's one-question-handshake. Thor's enthusiasm for feasting. Johnny's three-clause approval. None of it is comedic in tone — it's character-authentic humor emerging from accurate portrayal.
+
+**Player's standing instruction:** "We are not writing fan fiction here." Characters don't perform for the audience. Fury doesn't care about alien browser history. SHIELD professionals are competent and unsurprised by the unusual. This is the Marvel universe operating at normal function, not elevated drama for its own sake.
+
+**Emotional register of Xavier Institute scene:** Genuine and soft. Not sentimental. Salvage is nervous and happy. Xavier is warm once satisfied. Students are curious and direct. The scene's emotional weight is in understatement — a person meeting in real life the people they've been defending from a distance, and the awkwardness of that being genuine rather than polished.
 
 ---
 
 ## Extraction Notes
 
-*(Stub)*
+**Source complexity:** Session 3 is the longest session in the series (~12,000 lines). Multiple concurrent POV threads (Salvage, SHIELD, Grandmaster, hero ensemble) running simultaneously throughout most of the session. Information asymmetry is layered across all of them.
+
+**Session summary blocks:** The GM (Claude) generates a SESSION SUMMARY block and a KNOWLEDGE TRACKING block at the start of almost every new scene or after each player input. These are invaluable for extraction — they function as reliable state-of-play snapshots. Where this extraction document contradicts a session summary block, treat the session summary block as authoritative (it reflects the GM's tracked state at time of generation).
+
+**WSC briefing location in source:** Lines ~5980–6430.
+
+**Suit AI first speech location:** Lines ~4001–4260 approx.
+
+**Xavier Institute visit location:** Lines ~7780–8180 approx.
+
+**Baxter Building pitch (Steve) location:** Lines ~7455–7660 approx.
+
+**Baxter Building in-person visit:** Not yet fully read for extraction (Days 5–8 content). Negative Zone pre-briefing is the session-end scene; further detail may be in the source beyond line 10840 (last confirmed read point for deep content).
+
+**Scratch file:** `/canon-reconstruction/extraction/.scratch-session-3.md` exists — check for any notes from earlier extraction work that may supplement this document.
 
 ---
 
 ## Session Summary
 
-*(Stub)*
+Session 3 covers five major structural arcs across approximately Weeks 20–24 of the story (Day 1–8 post-framework).
+
+**What changes from Session 2 to Session 3 end-state:**
+- Salvage goes from: informal SHIELD asset (supply box arrangement) with 29 solo encounters
+- To: Avengers member (unanimous vote); X-Men guest combatant partner (framework signed); Fantastic Four partner (framework signed); COSMIC TOP SECRET classified strategic asset (WSC, 5-0 vote); vehicle fully upgraded with Zarathos-Nar demonic stone; Suit AI publicly disclosed and externally assessed as sentient; Stark R&D deal active; recursion theory publicly stated and accepted; first joint operations (Xavier/Sentinel + FF/Negative Zone) imminent; survival probability 96%.
+
+**The session's defining event** is the Zarathos-Nar battle and subsequent group loot — this is the moment the power's team-arming capability is demonstrated at scale for the first time, which triggers everything that follows (Avengers integration, WSC briefing, framework development, institutional expansion).
+
+**The session's defining line** (Grandmaster): *"This is no longer a solo game."*
 
 ---
 
 ## Key Player Decisions
 
-*(Stub)*
+| Decision | Context | Consequence |
+|---|---|---|
+| Accept "Salvage" callsign permanently | Post-Zarathos-Nar debrief | SHIELD designation formalized; used by all parties going forward |
+| Propose recursion theory to Tony publicly | Street-level debrief | Gives Tony the conceptual framework that makes the deal he proposes inevitable; Grandmaster notes this as strategically significant |
+| Stake a "hero work" criterion for guest combatant framework | Inside vehicle, Avengers Tower | Framework becomes values-filtered, self-policing; SHIELD accepts it immediately; it shapes which organizations qualify |
+| Accept Avengers membership | Post-vote | Multi-party institutional integration; security, resources, team coordination; target profile increases; SHIELD cooperation continues |
+| Agree to in-person Xavier Institute visit | Framework negotiation | Verifies values in person for Xavier; creates student community encounter; dormitory advocacy conversation |
+| Allow Reed's 8-hour examination | Baxter Building | 473 research questions; Suit AI independently verified as sentient; FF fully committed |
+| Disclose SHIELD connection proactively | Zarathos-Nar debrief | Avengers gain full picture without deception; Fury notes this: "He's playing this clean. We do the same." |
 
 ---
 
 ## New Characters Introduced
 
-*(Stub)*
+All characters introduced for the first time in Session 3 with speaking or significant roles:
+
+**616 Canonical (new this session):** Maria Hill, Captain America (full speaking role), Iron Man, War Machine, Spider-Man, Black Widow, Hawkeye, Doctor Strange, Thor, Professor Xavier, Storm, Cyclops, Reed Richards, Sue Storm, Ben Grimm, Johnny Storm, Bobby Drake (Iceman), Mercury (Cessily Kinnick), Pixie (Megan Gwynn), Armor (Hisako Ichiki), Nature Girl (Lin Li), Glob Herman.
+
+**Fabricated (new this session):** Zarathos-Nar (Demon Lord of the Crimson Wastes), Suit AI / Integrated Support System (first external disclosure; first speech).
+
+**Referenced only (not present):** JARVIS (Tony's AI — actually speaking; retroactively could be classified as 616-canonical character with speaking role this session). Jean Grey (referenced by Storm as part of field team). Dormammu, Galactus, Celestials (referenced by Strange). Fin Fang Foom (SHIELD threat database reference). Blastaar (Negative Zone pre-briefing reference).
+
+JARVIS note: JARVIS speaks directly to the Suit AI in the vehicle scene. This is his first active scene in the story and he should be classified as `[616-CANONICAL]` `[616-FAITHFUL]` `[NEW]` with MODERATE narrative weight.
