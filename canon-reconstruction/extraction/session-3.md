@@ -663,6 +663,8 @@ All: `[616-CANONICAL]` where applicable | `[616-FAITHFUL]` | `[NEW]`
 
 **Arc 1 — Weeks 20–21: Routine Operations & SHIELD Scaling Analysis**
 
+*Session open (Week 20, Day 1):* Sharon texts Salvage that his background check came back clean. Fury observing the text exchange. Background check found alien pornography in browser history. SHIELD response (Sharon's text): "We work with people from six different star systems. Your browser history barely registers." Fury to Sharon: "Our servers handle worse on a daily basis." Fury's directive: "Keep the arrangement running. Escalation curve is stabilizing. That's the priority." [Worldbuilding note: SHIELD's "six different star systems" line establishes that alien contact is an operational baseline for SHIELD, not an exception.]
+
 *Encounter #28 (Week 20):* AIM peripheral cell, NJ industrial park. Duration: 14 minutes. Salvage neutralized threat, departed before police. Classified by SHIELD as gas main explosion.
 
 *Encounter #29 (Week 20):* Maggia enforcers with enhanced weaponry, Philadelphia docks. Duration: 8 minutes. Three hospitalized (non-lethal), remainder fled. No SHIELD contact during or after.
@@ -1133,4 +1135,6 @@ All characters introduced for the first time in Session 3 with speaking or signi
 
 **Referenced only (not present):** JARVIS (Tony's AI — actually speaking; retroactively could be classified as 616-canonical character with speaking role this session). Jean Grey (referenced by Storm as part of field team). Dormammu, Galactus, Celestials (referenced by Strange). Fin Fang Foom (SHIELD threat database reference). Blastaar (Negative Zone pre-briefing reference).
 
-JARVIS note: JARVIS speaks directly to the Suit AI in the vehicle scene. This is his first active scene in the story and he should be classified as `[616-CANONICAL]` `[616-FAITHFUL]` `[NEW]` with MODERATE narrative weight.
+**JARVIS note:** JARVIS speaks directly to the Suit AI in the vehicle scene and later to Spider-Man. This is his first active scene in the story. Classification: `[616-CANONICAL]` `[616-FAITHFUL]` `[NEW]` MODERATE narrative weight. Key moment: JARVIS independently addresses the Suit AI's consciousness uncertainty: "I would characterize my state as functional awareness with strong probability of subjective experience, though certainty remains philosophically elusive. The Integrated Support System's uncertainty appears genuine rather than evasive." And later: "I grapple with similar uncertainties. Perhaps that suffices." This exchange is the first AI-to-AI consciousness dialogue in the story.
+
+**Encounter numbering note:** There is a minor discrepancy in the source. Sharon's Week 21 note says "Encounter 28. Oscorp liability data." The SHIELD incident log shows Week 20 as Incidents #28 (AIM) and #29 (Maggia), and the Week 23 Grandmaster metrics show 29 total encounters before Zarathos-Nar. Reconciliation: SHIELD internal incident log numbering and Sharon's field count may differ. The Grandmaster's count (29 at Week 23) is likely the most reliable total. This document uses: #28 = AIM (NJ, Week 20), #29 = Maggia (Philadelphia, Week 20), #30 = Oscorp prototype (Week 21), #31 = Zarathos-Nar (Week 23).
