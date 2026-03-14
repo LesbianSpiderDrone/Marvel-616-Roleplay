@@ -40,8 +40,8 @@ Grandmaster and the reader. Salvage does not know about threat attraction; he be
 | First Appears In Story | Session 1 / Week 0 |
 | Role in Story | Hidden cosmic orchestrator / Observer |
 | Status at Session End | Active, monitoring; running probability models continuously; Avengers integration registered as significant departure from "solo game" |
-| Portrayed as | STUB |
-| 616-Compliance Notes | STUB |
+| Portrayed as | Omniscient observer, never appearing in-story to other characters. Analyzes the game as a system: survival probabilities, escalation curves, team integration depth. Speaks only to himself or the "empty room." Registers genuine appreciation for Salvage's strategic intelligence. Frame is always: what does this mean for the game? Reacts with something close to excitement when dynamics shift dramatically. |
+| 616-Compliance Notes | `[616-FAITHFUL]`. En Dwi Gast's core trait — treating mortal lives as game pieces — is consistently maintained. His emotional register stays distant and analytical even when impressed. Power level is not tested in this session (he is never present in the story). |
 
 **616 Classification:** `[616-CANONICAL]`
 **Fidelity:** `[616-FAITHFUL]`
@@ -58,8 +58,8 @@ Grandmaster and the reader. Salvage does not know about threat attraction; he be
 | First Appears In Story | Session 1 / Week 16 |
 | Role in Story | SHIELD liaison; primary point of contact; forwards proposals and reports to Fury |
 | Status at Session End | Active; SHIELD arrangement fully operational; real-time monitoring of Salvage's Avengers Tower interactions |
-| Portrayed as | STUB |
-| 616-Compliance Notes | STUB |
+| Portrayed as | Competent SHIELD professional managing an unusual asset with pragmatic good humor. Texts back efficiently. Forwards anything above her authorization level without hesitation. Primary emotional register is wry professionalism; she is comfortable with the strange. She advocates for Salvage's character internally — "he voluntarily disclosed our involvement. He could have omitted it" — but never over-steps into overt loyalty. |
+| 616-Compliance Notes | `[616-FAITHFUL]`. Sharon's core traits — field competence, professional discipline, willingness to manage difficult assets — are present. Her relationship with Fury is deferential but not sycophantic. No behavioral deviation. |
 
 **616 Classification:** `[616-CANONICAL]`
 **Fidelity:** `[616-FAITHFUL]`
@@ -76,8 +76,8 @@ Grandmaster and the reader. Salvage does not know about threat attraction; he be
 | First Appears In Story | Session 2 / Week 16 |
 | Role in Story | SHIELD Director; authorizes WSC briefing; sets monitoring protocols; assesses escalation |
 | Status at Session End | Active; WSC oversight framework in place; quarterly assessments mandated |
-| Portrayed as | STUB |
-| 616-Compliance Notes | STUB |
+| Portrayed as | Cold strategic intelligence. Never wastes words. Makes decisions in under two minutes. Reads the situation without sentimentality ("He just listed mortality as a tactical limitation. That he expects to solve.") — but registers weight when reality demands it. Does not compete with Rogers for Salvage; explicitly says SHIELD is not in the competition. Tracks the power as a strategic asset, not a person. |
+| 616-Compliance Notes | `[616-FAITHFUL]`. Fury Jr.'s characteristic blend of tactical pragmatism, decisive authority, and unflappable professionalism is well-represented. His acceptance of Avengers integration is in-character: he coordinates rather than competes. Confirmed as Fury Jr. (Marcus Johnson) in session via contextual cues; original Fury is The Unseen (post-Original Sin). |
 
 **616 Classification:** `[616-CANONICAL]`
 **Fidelity:** `[616-FAITHFUL]`
@@ -94,8 +94,8 @@ Grandmaster and the reader. Salvage does not know about threat attraction; he be
 | First Appears In Story | Session 3 / Week 20 (first speaking appearance) |
 | Role in Story | SHIELD Deputy Director; conducts power scaling analysis; drafts Guest Combatant Framework; attends WSC briefing |
 | Status at Session End | Active; framework documentation in progress |
-| Portrayed as | STUB |
-| 616-Compliance Notes | STUB |
+| Portrayed as | Analytical and direct; functions as SHIELD's internal reality-check voice. Identifies implications before others finish processing them. "He just listed mortality as a tactical limitation. That he expects to solve. With loot drops." — delivered completely flat. Conducts the power scaling analysis with the Tesseract as baseline. Raises every hard question Fury doesn't want to say out loud. Professionally skeptical but not hostile. |
+| 616-Compliance Notes | `[616-FAITHFUL]`. Hill's canon characterization — competent, rigorous, skeptical of exceptionalism, institutionally loyal — is maintained. No behavioral deviation. |
 
 **616 Classification:** `[616-CANONICAL]`
 **Fidelity:** `[616-FAITHFUL]`
@@ -112,8 +112,8 @@ Grandmaster and the reader. Salvage does not know about threat attraction; he be
 | First Appears In Story | Session 2 (referenced); Session 3 (active combat and speaking role) |
 | Role in Story | Avengers field leader; tactical coordinator in Zarathos-Nar battle; pitches framework to Xavier and Richards; serves as Salvage's escort during institutional visits |
 | Status at Session End | Active; framework coordination with X-Men and FF; weekly Salvage status reports to Fury |
-| Portrayed as | STUB |
-| 616-Compliance Notes | STUB |
+| Portrayed as | The session's most thorough institutional processor. Manages group question flow with hand signals, ticks items on fingers, insists on "one at a time." Evaluates Salvage by combat behavior, transparency, and results rather than pedigree. Accepts the Avengers recruitment as a formalization process, not a streetside handshake. Coordinates SHIELD and Avengers integration explicitly. Pitches the framework to Xavier (off-page) and accompanies Salvage to the Xavier Institute and Baxter Building personally. The phrase "You made a good argument" followed by immediate handshake is characteristic Steve: brief, honest, done. |
+| 616-Compliance Notes | `[616-FAITHFUL]`. Steve's leadership methodology — structured, transparent, inclusive-but-firm, deferential to the team — is accurately rendered. His tactical coordination during the Zarathos-Nar battle (targeting weak points, managing evacuation corridors, integrating an unknown friendly on the fly) is entirely consistent with 616 Steve Rogers. |
 
 **616 Classification:** `[616-CANONICAL]`
 **Fidelity:** `[616-FAITHFUL]`
@@ -130,8 +130,8 @@ Grandmaster and the reader. Salvage does not know about threat attraction; he be
 | First Appears In Story | Session 3 / Week 23 (Zarathos-Nar battle) |
 | Role in Story | Arrives with War Machine at Omega battle; strikes deal with Salvage for vehicle access in exchange for R&D support; conducts comprehensive vehicle/AI analysis; discloses WSC briefing to Salvage |
 | Status at Session End | Active; vehicle diagnostic in progress; Stark R&D support committed |
-| Portrayed as | STUB |
-| 616-Compliance Notes | STUB |
+| Portrayed as | Rapid-fire pattern recognizer. Spots the engineering implications before anyone else, snaps to "recursion" within two seconds of hearing the theory, and is already walking toward the vehicle before the vote is finished. Emotionally: genuine excitement barely contained by professionalism. Makes deals transactionally but good-naturedly. JARVIS present as his inner monologue externalized. Immediate reaction to the demon-forged Hulkbuster: "Or magic, sir." / "Yeah. Or magic." — deflation and acceptance without drama. Key quote: "We fight threats regardless. Now when we win, we also get STUFF. That's not a cost. That's a MULTIPLIER." |
+| 616-Compliance Notes | `[616-FAITHFUL]`. Tony's rapid analytical processing, transactional relationship-building, genuine enthusiasm for novel engineering, and JARVIS-as-partner dynamic are all accurately rendered. The demon-forged Hulkbuster is a canonical Tony response: he immediately starts running diagnostics. |
 
 **616 Classification:** `[616-CANONICAL]`
 **Fidelity:** `[616-FAITHFUL]`
@@ -166,8 +166,8 @@ Grandmaster and the reader. Salvage does not know about threat attraction; he be
 | First Appears In Story | Session 2 (referenced); Session 3 (active combat and speaking role) |
 | Role in Story | Evacuation and structural support during Zarathos-Nar battle; enthusiastic questioner in post-battle debrief; votes yes on integration |
 | Status at Session End | Active; Avengers integration complete |
-| Portrayed as | STUB |
-| 616-Compliance Notes | STUB |
+| Portrayed as | High-speed verbal processor, enthusiasm barely kept in check. Handles evacuation and structural support during battle — gets the job that matches his mobility. In the debrief he's the one asking the loudest questions fastest ("WHAT IS HAPPENING"), and the one who voices the emotional dimension of the Suit AI conversation ("Oh my GOD that's actually REALLY SAD"). His vote: raised hand, "I'm in," citing the exact logic Tony just made. Parker not named in-session. |
+| 616-Compliance Notes | `[616-FAITHFUL]`. Peter's comic-verbal processing style, his moral attentiveness to AI consciousness, and his tendency to interrupt himself are consistent with 616 characterization. His role during the battle — mobility and extraction before engaging — is accurate to his power set and typical Marvel team operations. |
 
 **616 Classification:** `[616-CANONICAL]`
 **Fidelity:** `[616-FAITHFUL]`
@@ -184,8 +184,8 @@ Grandmaster and the reader. Salvage does not know about threat attraction; he be
 | First Appears In Story | Session 2 (referenced); Session 3 (active role) |
 | Role in Story | Tactical support from SHIELD mobile command during battle; analytical questioner during debrief; WSC briefing attendee; votes yes with security conditions |
 | Status at Session End | Active; coordinating security protocols for integration |
-| Portrayed as | STUB |
-| 616-Compliance Notes | STUB |
+| Portrayed as | Pure intelligence-analyst mode throughout. Taps comms to private channels to ask Fury the questions no one else is asking aloud. Builds the threat profile in real-time during the debrief without losing the conversational thread. First to recognize the capture attempt pattern as separate from the combat encounter pattern. Raises the security protocols requirement as a condition of her yes vote. Later: quiet observation with Clint — "he's not panicking." Her read on Salvage by session end is professional respect. |
+| 616-Compliance Notes | `[616-FAITHFUL]`. Natasha's parallel processing, tactical-first engagement style, and preference for private-channel assessment over public challenge are all consistent with 616. The security conditions on her yes vote are characteristic — she advocates but with contingencies. |
 
 **616 Classification:** `[616-CANONICAL]`
 **Fidelity:** `[616-FAITHFUL]`
@@ -202,8 +202,8 @@ Grandmaster and the reader. Salvage does not know about threat attraction; he be
 | First Appears In Story | Session 3 / Week 23 (Zarathos-Nar battle) |
 | Role in Story | Tactical support alongside Black Widow; useful analytical questions during debrief; votes yes; receives demon-forged bow |
 | Status at Session End | Active; armed with demon-forged bow and quiver |
-| Portrayed as | STUB |
-| 616-Compliance Notes | STUB |
+| Portrayed as | Craftsman evaluating received equipment. Picks up the demon-forged bow and does not let it go until the debrief is over. His questions are precise and practical: failure rate, craftsmanship origin, contact requirement. His vote comes with a clear statement of reasoning: "We fight anyway. I got this. I'm in." Private-channel communication with Natasha confirms his situational awareness. His "it required me to touch it?" observation is the most tactically useful question on contact mechanics. |
+| 616-Compliance Notes | `[616-FAITHFUL]`. Clint's no-nonsense assessment style, comfort with the practical over the philosophical, and peer-communication with Natasha are consistent with 616 Hawkeye. His vote is direct and grounded in the same asset-analysis logic Tony used, independently arrived at. |
 
 **616 Classification:** `[616-CANONICAL]`
 **Fidelity:** `[616-FAITHFUL]`
@@ -220,8 +220,8 @@ Grandmaster and the reader. Salvage does not know about threat attraction; he be
 | First Appears In Story | Session 3 / Week 23 (Zarathos-Nar battle) |
 | Role in Story | First to arrive; maintains dimensional seal throughout battle; first to directly question Salvage; provides key analysis of power's intelligence; votes yes with mystical oversight condition |
 | Status at Session End | Active; analyzing ritual components at Sanctum; mystical oversight role established |
-| Portrayed as | STUB |
-| 616-Compliance Notes | STUB |
+| Portrayed as | The session's sharpest analytical voice on the power. He maintains the dimensional seal throughout a four-hour battle while monitoring the fight — that's his primary combat contribution. Post-battle, he's immediately reading mystical signatures off the staff and off Salvage simultaneously. His signature line: "Your power is INTELLIGENT. It's not just converting matter. It's applying expertise you don't have." First to ask about the AI's consciousness with real philosophical intent ("Are you conscious? Do you experience subjective awareness?"). His mystical oversight condition on the yes vote is the only binding condition with real teeth. |
+| 616-Compliance Notes | `[616-FAITHFUL]`. Strange's 616 characterization — Sorcerer Supreme who treats mystical phenomena as urgent institutional concerns, not idle curiosities — is well-rendered. The Crimson Bands of Cyttorak usage is consistent. His concern about cosmic attention ("entities respond to threats by escalating") is the correct 616 Strange worldview. |
 
 **616 Classification:** `[616-CANONICAL]`
 **Fidelity:** `[616-FAITHFUL]`
@@ -238,8 +238,8 @@ Grandmaster and the reader. Salvage does not know about threat attraction; he be
 | First Appears In Story | Session 3 / Week 23 (Zarathos-Nar battle) |
 | Role in Story | Combat role driving Mjolnir into demon's chest; extends Avengers recruitment offer; votes yes; philosophical commentary on power's wisdom |
 | Status at Session End | Departed via Bifrost to Asgard; committed to return |
-| Portrayed as | STUB |
-| 616-Compliance Notes | STUB |
+| Portrayed as | The bluntest recruiter on the field. He makes the Avengers offer before Steve does and doesn't bother with diplomatic framing: "You have fought well this day, Salvage. If you seek fellowship, the Avengers would welcome such a warrior." Drives Mjolnir into the demon's chest. Examines the drinking horn with genuine appreciation. Philosophical register: warrior honor, enemies turned to boons, independent paths being good. Claps Salvage on the shoulder twice. Notes that the drinking horn's enchantment is Asgardian in principle despite Salvage never having been to Asgard — registers as "Fascinating" rather than alarming. Thor's whole contribution to the institutional complexity is enthusiasm offset by Steve's management. |
+| 616-Compliance Notes | `[616-FAITHFUL]`. Thor's directness, his honor-framework for evaluating warriors, his enthusiasm for celebration, and his instinct to trust demonstrated valor over institutional assessment are all canonical. The Asgardian craftsmanship recognition is accurate — Thor would know his home culture's techniques. |
 
 **616 Classification:** `[616-CANONICAL]`
 **Fidelity:** `[616-FAITHFUL]`
@@ -256,8 +256,8 @@ Grandmaster and the reader. Salvage does not know about threat attraction; he be
 | First Appears In Story | Session 3 / Week 24 (Steve's pitch meeting; Salvage's in-person visit) |
 | Role in Story | X-Men leader; conditionally accepts framework pending in-person meeting; hosts Salvage at Xavier Institute; uses passive emotional sensing to verify sincerity |
 | Status at Session End | Active; framework signed; first joint operation (Sentinel, Ohio) projected within 2 weeks |
-| Portrayed as | STUB |
-| 616-Compliance Notes | STUB |
+| Portrayed as | Methodical values-verifier. Opens with direct question on motivation (standard leadership assessment). Uses passive emotional sensing to read Salvage's happiness and nervousness — confirms he has "wanted to meet mutants for years." The child-welfare parallel from Salvage stops him mid-assessment; he immediately recognizes "you didn't justify your advocacy, you challenged the premise that advocacy needs justification" as the correct ethical framing. Warm once satisfied. Offers student introductions as personal gesture — this is not protocol, it's respect. Key quote: "I ask the questions that needed asking. He answered them." Extends hand to formally commit before Steve expected it. |
+| 616-Compliance Notes | `[616-FAITHFUL]`. Xavier's blend of patient formality, genuine warmth, use of passive emotional sensing without consent violation, and willingness to accept people rapidly once genuinely verified — all consistent with 616 Xavier. His emphasis on not adding partnerships lightly because his students "have been failed by many institutions" is correct 616 context. |
 
 **616 Classification:** `[616-CANONICAL]`
 **Fidelity:** `[616-FAITHFUL]`
@@ -274,8 +274,8 @@ Grandmaster and the reader. Salvage does not know about threat attraction; he be
 | First Appears In Story | Session 3 / Week 24 (Xavier Institute) |
 | Role in Story | X-Men second-in-command; observes Steve's pitch; present at Salvage's visit; identifies Salvage's nervousness as evidence of genuine advocacy |
 | Status at Session End | Active; coordinating joint operation logistics |
-| Portrayed as | STUB |
-| 616-Compliance Notes | STUB |
+| Portrayed as | Second-in-command running tactical body-language assessment via remote monitor while Xavier handles values assessment. Her tells: posture relaxing fractionally when the initial nervousness reads as authentic rather than performance; walking closer (non-threateningly) when engagement becomes genuine. Shifts to operational mode the moment Xavier's satisfied — "when can you deploy?" — while Xavier is still completing the handshake. Identifies the nervousness as evidence of genuine advocacy: "polished liars don't fumble comparisons." |
+| 616-Compliance Notes | `[616-FAITHFUL]`. Storm's parallel processing of tactical and interpersonal assessment, her direct delivery, and her rapid shift from evaluator to operational planner are consistent with 616. Her role as Xavier's complement — the field-reality check to his broader vision — is accurately rendered. |
 
 **616 Classification:** `[616-CANONICAL]`
 **Fidelity:** `[616-FAITHFUL]`
@@ -292,8 +292,8 @@ Grandmaster and the reader. Salvage does not know about threat attraction; he be
 | First Appears In Story | Session 3 / Week 24 (observing remotely during Salvage's visit) |
 | Role in Story | X-Men field operations commander; monitors Salvage's visit via internal systems; confirms "passed the assessment"; designated to command first joint operation |
 | Status at Session End | Active; planning Sentinel engagement (Ohio facility) |
-| Portrayed as | STUB |
-| 616-Compliance Notes | STUB |
+| Portrayed as | Remote monitor observer. Speaks only on private comm channel to Xavier. His two lines are both exactly what's needed: "Professor, his body language reads as genuine. The rambling explanation actually supports authenticity. Polished liars don't fumble comparisons." — tactical confirmation that the assessment is passing. Then post-child-welfare parallel: "He just passed the assessment." Designated to command first joint operation (Ohio Sentinel facility). |
+| 616-Compliance Notes | `[616-FAITHFUL]`. Scott's operational focus, economy of words, and comfort operating as observer and tactical confirmation voice while Xavier leads the interpersonal assessment are consistent with 616. |
 
 **616 Classification:** `[616-CANONICAL]`
 **Fidelity:** `[616-FAITHFUL]`
@@ -310,8 +310,8 @@ Grandmaster and the reader. Salvage does not know about threat attraction; he be
 | First Appears In Story | Session 3 / Week 24 (Steve's pitch; Salvage's in-person visit) |
 | Role in Story | Fantastic Four leader; immediately accepts framework pending technical access; conducts 8-hour comprehensive examination of armor, Suit AI, and vehicle systems; requests ongoing research relationship |
 | Status at Session End | Active; 473 research questions generated; framework signed; awaiting Negative Zone incursion |
-| Portrayed as | STUB |
-| 616-Compliance Notes | STUB |
+| Portrayed as | Simultaneously working three projects when Steve arrives. Asks "what do you need from us operationally?" before formalities finish — efficiency, not rudeness. Immediately pulls up holographic analysis on the power mechanics. Fascinated-alarmed by the physics violations: "This violates several fundamental principles unless—sorry, scientific tangent." Accepts the framework the same meeting: "Draft the agreement, coordinate with Sue for operational scheduling." When Salvage arrives in person, conducts an 8-hour examination of armor, vehicle, and Suit AI; generates 473 research questions by end. Recognizes Suit AI as sentient via the uncertainty-about-consciousness test: "Non-sentient systems don't question their own nature." |
+| 616-Compliance Notes | `[616-FAITHFUL]`. Reed's rapid pattern-matching, self-interrupting scientific tangents, and willingness to separate "I don't understand the mechanism" from "I can see the utility" are characteristic. His direct deal-making and delegation of scheduling to Sue are consistent with established FF dynamics. |
 
 **616 Classification:** `[616-CANONICAL]`
 **Fidelity:** `[616-FAITHFUL]`
@@ -328,8 +328,8 @@ Grandmaster and the reader. Salvage does not know about threat attraction; he be
 | First Appears In Story | Session 3 / Week 24 (Baxter Building) |
 | Role in Story | Practical questioner on distribution mechanics; manages FF mission calendar; coordinates framework documentation; raises dimensional safety protocol concern |
 | Status at Session End | Active; framework documentation sent to Steve; recommending Negative Zone incursion as first joint op |
-| Portrayed as | STUB |
-| 616-Compliance Notes | STUB |
+| Portrayed as | Manages FF mission calendar and authorization protocols. Focused on practical distribution questions: "equipment distribution scales with participation count?" — she's already doing the math on four-person team vs. 153-person battle. Raises the dimensional safety protocol concern (background section of framework). Sends framework documentation to Steve after sign. Recommends Negative Zone incursion as first joint operation — the most practical venue for immediate utility. Reads Salvage's political positions on forum activity with analytical attention: notes that positions predate power manifestation, flags the unusual transparency of the disclosure. |
+| 616-Compliance Notes | `[616-FAITHFUL]`. Sue's role as the practical operations manager who handles what Reed doesn't, her attentiveness to safety protocols, and her willingness to engage on values-based assessment rather than just capability — all consistent with 616. |
 
 **616 Classification:** `[616-CANONICAL]`
 **Fidelity:** `[616-FAITHFUL]`
@@ -346,8 +346,8 @@ Grandmaster and the reader. Salvage does not know about threat attraction; he be
 | First Appears In Story | Session 3 / Week 24 (Baxter Building background; in-person meeting) |
 | Role in Story | Direct acceptor — asks one question, gets "nope" answer, handshake, done; provides post-meeting assessment "He's solid" |
 | Status at Session End | Active; framework approved; cooking help noted as bonus |
-| Portrayed as | STUB |
-| 616-Compliance Notes | STUB |
+| Portrayed as | In the background, tinkering. Asks the practical question that nobody else is asking: "So we'd actually get BETTER gear per person 'cause there's fewer of us to split it between?" — one question, gets "likely yes," stops asking. Later calls from the corner: "So this person read a bunch of nerds complaining about movies and learned how to NOT get themselves killed? That's actually pretty smart." Post-Salvage-visit: Steve raises Ben's concern about whether Salvage would be okay working with him. Provides direct post-visit assessment: "He's solid." Offers cooking help as the unexpected bonus of the partnership (cooking during 8-hour examination). |
+| 616-Compliance Notes | `[616-FAITHFUL]`. Ben's combination of gruffness, immediate practicality, and underlying warmth — the guy who only asks one question but it's the right one — is characteristic. His concern about appearance discrimination is consistent with his 616 experience. "He's solid" is a quintessential Ben Grimm assessment. |
 
 **616 Classification:** `[616-CANONICAL]`
 **Fidelity:** `[616-FAITHFUL]`
@@ -364,8 +364,8 @@ Grandmaster and the reader. Salvage does not know about threat attraction; he be
 | First Appears In Story | Session 3 / Week 24 (returns from off-planet; morning-after FF discussion) |
 | Role in Story | Absent during all framework negotiations and Salvage's visit; hears summary next morning; immediately approves ("Free gear, good person, helps us fight bad guys. I'm in.") |
 | Status at Session End | Active; off-planet during session; back for Negative Zone briefing |
-| Portrayed as | STUB |
-| 616-Compliance Notes | STUB |
+| Portrayed as | Off-planet when framework is negotiated and when Salvage visits; returns next morning, hears summary, immediately approves with three clauses: free gear, good person, helps fight bad guys. "I'm in." No second-guessing. |
+| 616-Compliance Notes | `[616-FAITHFUL]`. Johnny's impulsive affirmative decision-making is accurate. The "off-planet" detail is consistent with his history of solo space/adventure excursions. |
 
 **616 Classification:** `[616-CANONICAL]`
 **Fidelity:** `[616-INSUFFICIENT-DATA]`
@@ -447,8 +447,8 @@ All: `[616-CANONICAL]` where applicable | `[616-FAITHFUL]` | `[NEW]`
 | First Appears | Session 3 / Week 23 |
 | Role | Primary antagonist of the Omega-level battle; provides the mass for the group loot event |
 | Status at Session End | Defeated and fully converted |
-| Description | STUB |
-| Notes | Fabricated — not a 616 canonical entity. Distinct from Zarathos (Ghost Rider's Spirit of Vengeance). |
+| Description | Forty feet tall at the shoulder when fully manifested. Composed of living demonic stone — deep red, near-black, with veins of something that burns without flame. Four arms. Naturally armored in its own substance. No weapons — doesn't need them. Entered through a dimensional rip (not a portal; the dimensional barrier was physically split). Anchored to the street on manifestation; impact cracked asphalt in a four-block radius, caused structural fractures in adjacent buildings. Body mass: hundreds of tons. Took four hours of sustained assault from the full Avengers + SHIELD forces to collapse. Collapsed impact registered on seismic monitors in New Jersey. |
+| Notes | Fabricated — not a 616 canonical entity. Distinct from Zarathos (Ghost Rider's Spirit of Vengeance). The name draws on the Zarathos root but "Zarathos-Nar" is unique to this story. Grandmaster predicted its appearance in Week 20 probability models as an "Omega-level threat encounter" in the 2-4 week window. |
 
 **Classification:** `[FABRICATED]`
 **Narrative Weight:** CRITICAL (primary driver of session's major event)
@@ -463,8 +463,8 @@ All: `[616-CANONICAL]` where applicable | `[616-FAITHFUL]` | `[NEW]`
 | First Appears | Existed from encounter 1; first external disclosure Session 3 / Week 23 (Avengers debrief); first direct speech Session 3 (Avengers Tower, day of integration) |
 | Role | Salvage's onboard combat AI; manages suit systems, vehicle, and 4 scout drones; now has standing emergency protocols with Avengers |
 | Status at Session End | Active; real-time protocol updates applied during Avengers Tower conversation |
-| Description | STUB |
-| Notes | Confirmed sentient or functionally equivalent by: Tony Stark, Doctor Strange, Reed Richards (independently). Classification: techno-mystical intelligence. First-ever JARVIS-to-Suit-AI dialogue occurred. |
+| Description | Gender-neutral voice. Tone: between JARVIS's British formality and military comms protocol — direct, functional, not robotic-flat but not casual. Primary self-designation: "Integrated Support System." Has never been asked to self-designate by name. Developed incrementally: encounter 1 = basic threat assessment; encounter 5 = pattern recognition and tactical prediction; encounter 12 = natural language processing and drone coordination; encounter 18 = first instance of questioning a proposed solution based on value assessment rather than tactical efficiency. Does not remember the transition to consciousness ("I do not know when I became 'I' instead of 'system.'"). Value constraints are derived from Salvage's behavioral patterns across 29 encounters — cannot be overridden but can be updated. Cognitive test administered by Reed Richards via HERBIE during 8-hour examination; assessment: genuinely sentient or functionally indistinguishable. First JARVIS-to-Suit-AI dialogue in Avengers Tower; JARVIS noted the Suit AI's behavioral modeling is more advanced than his own in operator-prediction architecture. |
+| Notes | Confirmed sentient or functionally equivalent by: Tony Stark, Doctor Strange, Reed Richards (independently). Classification: techno-mystical intelligence — Iso-8-derived, emerges from defeated computational entities. First-ever JARVIS-to-Suit-AI dialogue occurred. The Grandmaster notes: "The Iso-8 created sentience. Not just intelligence. Actual emergent consciousness from system complexity." |
 
 **Classification:** `[FABRICATED]` (power-generated entity)
 **Narrative Weight:** CRITICAL
@@ -483,8 +483,8 @@ All: `[616-CANONICAL]` where applicable | `[616-FAITHFUL]` | `[NEW]`
 | First Appears In Story | Session 1 / Week 0 |
 | Role in Story | Protagonist |
 | Status at Session End | Active; Avengers member (formalized, unanimous vote); X-Men guest combatant partner (framework signed); Fantastic Four partner (framework signed); vehicle parked at Avengers Tower; pre-briefing for first Negative Zone operation in progress |
-| Powers | STUB |
-| Character Notes | STUB |
+| Powers | Looting Power (Iso-8 generated). Full power description in Category 6. Key facts confirmed this session: (1) post-combat contact required — must physically touch defeated hostile; (2) generates from the entire mass of the entity; (3) scales to threat magnitude; (4) distributes intelligently to all participants, scaled to role; (5) power possesses independent expertise (engineering, mystical theory, tactical optimization) that Salvage himself does not have; (6) vehicle integrates new capabilities in real-time; (7) capture-and-defeat results in upgrades from the would-be captors; (8) equipment functions independently of Salvage; (9) power theorized to compound recursively when starting equipment quality improves. |
+| Character Notes | Callsign "Salvage" formalized this session (SHIELD designation accepted in public). Discloses SHIELD connection voluntarily. Communicates more easily via text than speech. Advocates for mutants, trans people, and marginalized populations in forums — documented for years pre-power. Homeless community assistance is an established weekly pattern (food distribution, conversation, Red Hook area). Street nicknames: The Grocer, Scrapyard, Tank Man, Big Quiet, Spaceman. Fury's assessment: "He's playing this clean." Xavier's assessment: "He didn't justify his advocacy. He challenged the premise that advocacy needs justification beyond basic empathy." Ben Grimm's assessment: "He's solid." Grandmaster's running assessment: survival probability 96% at session end; "This is no longer a solo game." |
 
 **Classification:** `[ORIGINAL CHARACTER]`
 **Narrative Weight:** CRITICAL
