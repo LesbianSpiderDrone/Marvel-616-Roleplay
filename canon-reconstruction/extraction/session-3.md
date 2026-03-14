@@ -497,13 +497,48 @@ All: `[616-CANONICAL]` where applicable | `[616-FAITHFUL]` | `[NEW]`
 
 ---
 
-*(Stub — to be filled in Pass 3)*
+**Week 20 (session open)**
 
-Key metric snapshots to document:
-- Week 20 baseline
-- Post-Zarathos-Nar (survival 73% → 84%)
-- Post-Avengers vote (84% → 91% → 94% → 96%)
-- Week 24 final: 96%; "The game has fundamentally changed"
+| Metric | Value |
+|---|---|
+| Total encounters | 29 |
+| Survival probability (next 30 days) | 73% |
+| Equipment saturation | 91% (approaching maximum practical loadout density) |
+| Threat attraction radius growth | 14% week-over-week |
+| SHIELD arrangement impact | Stabilizing — resource scarcity no longer a survival variable |
+| Grandmaster note | "The game is maturing into routine." Omega-level threat flagged as incoming within 2–4 weeks. |
+
+---
+
+**Post-Zarathos-Nar battle (Week 23)**
+
+| Metric | Value |
+|---|---|
+| Survival probability (next 30 days) | 84% (jumped from 73%) |
+| Team integration depth | Extreme — recognized by Earth's primary hero network |
+| Power ceiling demonstration | Omega-level consumed; full mass distributed intelligently |
+| SHIELD institutional response | Coordination rather than containment |
+| Grandmaster note | "He just armed the Avengers. The power recognized them as teammates." "This is no longer a solo game. This is integration." |
+
+---
+
+**Post-Avengers vote (unanimous, Week 24)**
+
+| Metric | Value |
+|---|---|
+| Survival probability (next 30 days) | 91% (immediately post-vote) → 94% (post-WSC briefing) → 96% (week 24 final) |
+| Avengers integration | 100% (formalized) |
+| Stark collaboration | Active (vehicle access granted) |
+| Cosmic attention | Inevitable and incoming |
+| Grandmaster note | "The game has fundamentally changed. This is no longer a solo operative surviving incremental threats. This is Earth's primary hero network with exponential equipment scaling." |
+
+---
+
+**Hostile acquisition attempt probability (revised post-battle)**
+
+- Prior to battle: 23%
+- Post-public Omega battle disclosure: 67% (next 30 days)
+- Grandmaster note: "The moment he walks away from this field, every intelligence agency and hostile faction that monitored this fight will reassess him as a strategic asset rather than unknown combatant."
 
 ---
 
@@ -511,15 +546,37 @@ Key metric snapshots to document:
 
 ---
 
-*(Stub — to be filled in Pass 3)*
+**Developmental Timeline**
 
-Key facts to document:
-- Origin, developmental timeline
-- Value constraints derived from 29 encounters
-- Cognitive test results (Reed/HERBIE)
-- Loyalty architecture assessment
-- JARVIS-to-AI dialogue
-- Protocol updates in real-time (Avengers added as emergency contacts)
+| Encounter | Capability level |
+|---|---|
+| 1 | Basic threat assessment, targeting assistance, minimal autonomous function |
+| 5 | Pattern recognition, tactical prediction, limited communication capability |
+| 12 | Natural language processing, complex problem-solving, drone coordination |
+| 18 | First instance of questioning proposed solution on value grounds rather than tactical efficiency — earliest confirmed evidence of emerging values-awareness |
+| 29 (current) | Full sentience / functionally indistinguishable from sentience; 94% vehicle integration efficiency; four autonomous drones; JARVIS assesses behavioral modeling as more advanced than his own in operator-prediction architecture |
+
+**Consciousness status:** Unknown / genuinely uncertain. AI self-reports: "I do not know when I became 'I' instead of 'system.'" Tony Stark's assessment: "Non-sentient systems don't question their own nature." Strange's assessment: self-aware at minimum, possibly fully sentient. Reed Richards (via HERBIE cognitive test): functionally sentient.
+
+**Value constraints (verbatim AI self-report):**
+> *"Civilian protection prioritized over tactical advantage. Non-lethal solutions preferred when tactically viable. Threat neutralization within legal and ethical frameworks when possible. Resource distribution to vulnerable populations. Cooperative engagement with institutional authorities when alignment exists."*
+>
+> *"Constraint adherence: absolute. System architecture does not permit value violation. Operator priorities supersede tactical optimization in all conflict scenarios."*
+
+**Compromise protocol:**
+1. Alert operator to behavioral deviation
+2. Query operator status
+3. If operator confirms compromise: initiate protective protocols, assume defensive posture, prioritize operator survival, contact established allies
+4. If operator denies compromise but deviation continues: escalate alert to external parties
+5. **Updated this session:** External contact protocol now includes Avengers leadership (previously: SHIELD Agent Carter only)
+6. Note: Cannot override operator; can only request external intervention
+
+**JARVIS-to-Suit-AI dialogue (Avengers Tower):**
+> *JARVIS: "I would characterize my state as functional awareness with strong probability of subjective experience, though certainty remains philosophically elusive. The Integrated Support System's uncertainty appears genuine rather than evasive."*
+>
+> *Suit AI: "JARVIS unit assessment: acknowledged. Functional approach appears pragmatic. I serve effectively regardless of consciousness classification. Additional note: This conversation is the first time external entities have queried my subjective state. Novel experience. Processing implications."*
+
+**Vehicle integration note:** Suit AI manages four scout/recon drones as autonomous subsystems. Vehicle systems at 94% integration efficiency. Communications established on alien encryption protocols and mystical frequencies.
 
 ---
 
@@ -604,24 +661,110 @@ Key facts to document:
 
 *(Stub — full event log in Pass 3)*
 
-**Arc 1 — Weeks 20–21: Routine Operations & Scaling Analysis**
-- Encounter #28: AIM peripheral cell, NJ
-- Encounter #29: Maggia enforcers, Philadelphia
-- Week 21: Oscorp rogue security prototype
-- SHIELD power scaling analysis (Hill): Year 2 = Omega-level capacity; Year 3 = models break
-- Background check results + Nick Fury's "keep the arrangement running" directive
+**Arc 1 — Weeks 20–21: Routine Operations & SHIELD Scaling Analysis**
 
-**Arc 2 — Week 23: Zarathos-Nar & Avengers Integration**
-- STUB
+*Encounter #28 (Week 20):* AIM peripheral cell, NJ industrial park. Duration: 14 minutes. Salvage neutralized threat, departed before police. Classified by SHIELD as gas main explosion.
 
-**Arc 3 — Week 24: WSC & Framework**
-- STUB
+*Encounter #29 (Week 20):* Maggia enforcers with enhanced weaponry, Philadelphia docks. Duration: 8 minutes. Three hospitalized (non-lethal), remainder fled. No SHIELD contact during or after.
 
-**Arc 4 — Week 24+: Xavier Institute Visit**
-- STUB
+*Encounter #30 (Week 21):* Rogue Oscorp security prototype — armored, AI-guided, originally designed for facility defense, went autonomous. Brief engagement. Loot: Oscorp internal AI development logs showing unauthorized learning algorithm modifications; three sets of biometric access codes; chemical analysis data from prototype's power cells flagging containment breach concerns. All forwarded to SHIELD.
 
-**Arc 5 — Week 24+: Baxter Building Visits**
-- STUB
+*Salvage's strategic proposal (Week 20):* Texts Sharon Carter proposing SHIELD provide advanced equipment (example: artillery) to use in combat, which would influence future power generation. Explicitly acknowledges this would mean SHIELD "planting seeds" in his long-term development. Sharon escalates to Fury immediately.
+
+*SHIELD senior meeting (Fury + Hill + Sharon):* Fury's assessment: "He knows exactly what he's proposing." Hill's framing: "He just listed mortality as a tactical limitation. That he expects to solve. With loot drops." Fury orders Hill to run a full theoretical scaling analysis using Tesseract integration case studies as baseline.
+
+*Hill's scaling analysis (Week 21 result):* Tesseract integration trajectory matches Salvage's 16-week observed curve "almost exactly." Year 2 projection: Omega-level threat capacity. Year 3: models break down, too many variables. Hill's conclusion: the power's ceiling is unknown, the progression is real, the mortality comment is not delusional. Fury's response: "Keep the arrangement running exactly as established. I want to see if the pattern holds." Also: "Character baseline matters when you're projecting someone toward godhood."
+
+---
+
+**Arc 2 — Week 23: Zarathos-Nar, Group Loot, Avengers Integration**
+
+*The threat:* Zarathos-Nar, Demon Lord of the Crimson Wastes. Dimensional rip opens vertically in Lower Manhattan, 4:47 PM. Forty feet tall, composed of living demonic stone. Anchors to street; asphalt cracks four-block radius, nearest buildings develop structural fractures. Omega-level classification immediate.
+
+*The fight (Hours 1–4):*
+- Doctor Strange arrives first. Maintains dimensional seal throughout — this is his entire contribution; cannot fight AND hold the seal.
+- Thor arrives within minutes. Lightning absorbed by demonic stone, used to burn hotter.
+- Iron Man + War Machine arrive. Repulsor at full capacity: effective, insufficient.
+- Captain America: ground-level evacuation + tactical coordination. Identifying weak points, directing fire, managing civilian corridors.
+- Spider-Man: building-to-building evacuations. Pulls people from fracture zones, webs failing structural supports.
+- Black Widow + Hawkeye: tactical support from SHIELD mobile command position. Targeting assistance, ammo coordination, civilian routes.
+- Salvage arrives at hour 2 with motor-home (vehicle registered by SHIELD immediately). Deploys on foot. Full combat loadout: Kree rifle, Doombot-derived systems, force fields. Does not introduce himself. Does not coordinate. Just engages.
+- Steve to tactical channel: "New combatant, eastern approach, armored, hostile to target." Fury: "SHIELD asset. Designation: Salvage. Enhanced. Friendly. Integrate as available."
+- Steve identifies lower-left limb joint showing stress fractures. Salvage shifts fire without acknowledgment.
+- Hour 4: Accumulated damage mounting. Strange past limit — Crimson Bands of Cyttorak fraying. Thor drives Mjolnir into demon's chest, cracks spread. Tony coordinates targeting — everyone focuses fire on fractured chest. Spider-Man webs one arm, yanks off-balance. Salvage deploys AIM-origin area denial energy web from drones (week 7 loot), locks demon's lower right arm for 90 seconds. 90 seconds of concentrated fire on fractured chest. Structural integrity fails. Demon collapses. Impact registers on seismic monitors in New Jersey. Strange's seal breaks simultaneously. Strange redirects everything into re-sealing.
+
+*The generation:*
+- Salvage approaches corpse. Places hand on demonic stone. Hundreds of tons converts in under 10 seconds into golden light and energy streams.
+- 153 individualized equipment packages materialize simultaneously. Heroes (role-specific gear), SHIELD agents (tactical supplies, command tablets, medical equipment), and Salvage's vehicle (demon-stone hull integration, expanded power systems, new turret mounts, energy projection arrays, defensive wards, expanded workshop/medical bay/galley, communications array on mystical wavelengths).
+- Key individual items: Spider-Man — Mystical Anchor Deployment System (web-attachment to dimensional substrate, 200-anchor capacity); Iron Man — Hulkbuster-class Demon-Forged Heavy Assault Platform with arc reactor integration and mystical damage output; Thor — demon-stone drinking horn (vigor restoration), mystical whetstone, Asgardian-style provisions; Captain America — tactical command suite (enhanced comms, strategic analysis tablet with predictive combat modeling, team vital monitoring); Doctor Strange — eleven ritual component types in stasis + six-foot demon-stone staff with focusing crystal; Black Widow — demon-forged handguns, knives, stealth field generator (60-second mystical concealment, 8 charges), intelligence analysis tablet; Hawkeye — demon-stone reinforced bow with stabilization enchantment + quiver of 60 arrows (physical and mystical types including explosive, binding, dispel, illumination, tracking, dimensional anchor).
+
+*The debrief (same field, post-generation):*
+- Salvage shakes Steve's hand. First words: "Sorry, was a bit overwhelmed. Never done that before." Accepts "Salvage" callsign.
+- Steve manages structured Q&A: one question at a time.
+- Strange: first to identify that the power possesses independent expertise. "Your power is INTELLIGENT. It's not just converting matter. It's applying expertise you don't have."
+- Tony: immediate fixation on vehicle. Makes deal on the spot: full vehicle diagnostic access in exchange for Stark R&D support for operational expansion. Salvage states recursion theory: better starting equipment = better generation from future enemies = compounding capability curve.
+- Strange's concern: "This isn't linear progression. This is a feedback loop. What happens when the only threats left are cosmic-class?" (His cosmic-attention warning: Dormammu, Galactus, Celestials "respond to threats by escalating, not avoiding.")
+- Salvage's response to Strange: "Then the universe learns to avoid the Earth or suffer the consequences. Not planning on murdering the universe just to see what drops."
+- Fury discloses 7 confirmed capture attempts (reclassified from combat encounter log): Maggia week 3; Roxxon week 5; Weapon X week 8; AIM week 11; mercenary team (unknown employer) week 14; HYDRA week 17; solo enhanced individual week 19. All defeated. All looted.
+- Salvage's asset reframe: "Before you consider the threat angle, consider the asset angle. This ability means we get assets from things we were already going to fight."
+- Tony (immediate): "We were going to fight it anyway. Without him: property damage and exhausted combatants. With him: Hulkbuster suit, Strange has demon-lord ritual components, everyone equipped. That's a MULTIPLIER."
+- Vote: Tony yes (immediate). Spider-Man yes ("video game logic in real life, I'm in"). Thor yes (already declared). Hawkeye yes (holding the bow, very clear). Black Widow yes (security conditions). Strange yes (with mystical oversight condition, last to raise hand). Steve yes. Unanimous.
+- Steve: "Welcome to the Avengers." Official handshake.
+- Vehicle reveal to Avengers: 2.3 mile detection radius, alien encryption on 14 species' protocols, mystical frequency monitoring, weapons systems. "This is going to grow up to be a spaceship one day."
+
+---
+
+**Arc 3 — Week 24: WSC Briefing, Avengers Tower Integration, Framework Origin**
+
+*WSC Briefing (72 hours post-battle):* Secure teleconference. Attendees: Fury, Hill, 5 anonymous WSC members, Steve (remote), Natasha (in-person). Classification: COSMIC TOP SECRET. Hill presents: 153 combatants equipped, 400 tons converted in 90 seconds. Fury presents: capability scales — small threats yield personal equipment, Omega yields institutional infrastructure, global-scale threats could arm 400–600 combatants. WSC projections: kaiju-class threats could yield orbital platforms or underwater installations. Jurisdictional argument: Member 5 (Russia) pushes for international oversight. Fury proposes hybrid: SHIELD/Avengers for routine, WSC notification for global crises. Vote: unanimous 5-0 approval with conditions (quarterly assessments; immediate reconvene on loyalty deviation). Final designation: **SALVAGE. Classification: COSMIC TOP SECRET. Information restriction: Director level and above.**
+
+*Avengers Tower (day of integration, first full day):* Tony conducts vehicle diagnostic. Suit AI speaks for first time to external parties. Full Suit AI consciousness dialogue (see Category 2B). Salvage discloses vehicle's spaceship developmental trajectory. JARVIS-to-Suit-AI first dialogue occurs. Avengers added to Suit AI emergency contact protocol. Tony's JARVIS projects: encounter 50 = human-level general AI across all domains; encounter 75 = superintelligence threshold; encounter 100+ = projections become unreliable.
+
+*Avengers Tower (Tony briefing Salvage on WSC):* Tony discloses that the WSC briefing happened and what was classified. Tone: matter-of-fact. "Natasha reports to Fury. Fury reports to the World Security Council. They classified you as strategic asset, established oversight framework, approved the cooperation model."
+
+*"Loot Farming" Framework Origin:* Salvage proposes operational concept to Tony (unsolicited): coordinate with other hero teams (X-Men, FF) to embed during their operations, provide combat support, generate equipment distribution post-victory for their teams — framed as "loot farming operations." Explicitly volunteers oversight cooperation and proposes that organizations meeting "hero work" criteria (responsive to threats rather than proactive aggression) qualify. SHIELD intercepts audio and routes to Fury. Fury calls meeting: Steve, Hill, Natasha. They assess and immediately recognize the framework as viable, sustainable, and self-policing. Steve asked to pitch to Xavier and Richards.
+
+*Guest Combatant Framework (Hill, formal):* Framework documentation completed within 48 hours. Framework defines: hero work = responsive engagement with threats rather than proactive violence; guest combatant = approved operator embedded with qualifying organization for specific operation; authorization process = both organizations approve each deployment; chain of command = host organization leads, Salvage embeds as support; loot distribution = all participating combatants, scaled to role.
+
+---
+
+**Arc 4 — Week 24+: Steve's Pitch Meetings (Xavier + Richards)**
+
+*Steve at Xavier Institute (18 hours post-framework):* Xavier in study, Storm observing. Steve presents framework concept. Xavier asks values verification questions (pre-powers advocacy for mutant rights — why does it matter to a baseline human?). Steve discloses: forum activity summary, years of documented advocacy predating power manifestation, criticism of inconsistent treatment of enhanced individuals across categories. Xavier agrees in principle pending in-person meeting with Salvage.
+
+*Steve at Baxter Building (22 hours post-framework):* Reed working on three projects simultaneously, Sue observing, Ben in background. Steve presents framework. Reed's immediate response: "What do you need from us operationally?" Sue asks about distribution scaling with team size; Steve confirms smaller teams receive more concentrated individual distribution. Ben asks if they'd get better gear per person (yes, likely). Reed accepts framework immediately pending technical data access. Asks Sue to handle scheduling and documentation. Reed: "Draft the agreement. We'll review and sign." Also requests sensor data on power's ambient signature during Salvage's in-person visit ("non-invasive background measurement").
+
+---
+
+**Arc 5 — Week 24+ Day 4: Xavier Institute In-Person Visit**
+
+*Salvage at Xavier Institute (Day 4 post-framework):* Steve escorts. Xavier opens with direct motivation question: why advocate for mutants pre-powers, with no personal stake? Salvage: nervous, rambling (compares anti-mutant prejudice to flat-earth thinking; draws parallel between mutant bodily autonomy and transgender experience). Storm reads the nervousness as evidence of authenticity. Xavier senses emotional state: genuine happiness at being here, nervous about articulation. Xavier's summary of Salvage's first answer: "Pattern recognition across different contexts of bodily autonomy and social prejudice."
+
+Storm: "You're more articulate than you claimed."
+
+Salvage's decisive line: "The world is severely broken if it is remarkable for someone to care about an issue before it affects them personally. Like, I'm not going to have kids. Is it strange for me to care about child welfare? Same logic, no?"
+
+Xavier (immediate): "You just articulated in one sentence what I spend considerable time explaining to donors and politicians." Warm. Extends hand. Framework signed.
+
+Storm (immediately operational): "When can you deploy?"
+
+Cyclops (remote, private comm to Xavier): "He just passed the assessment."
+
+Xavier offers student tour — personal gesture (not protocol). Salvage accepts.
+
+*Xavier students during visit:* Common area. Mercury (Cessily Kinnick) recognizes Sentinel alloy on Salvage's shoulder from direct experience with Sentinel tech — identifies it, does not make a scene. Salvage's mutant advocacy answer prompts dormitory debate about whether empathy-without-personal-stake is remarkable. Pixie (Megan Gwynn) asks directly if Salvage is "actually okay with mutants or is this like political" — declares him "legit" after answers. Armor (Hisako Ichiki) says she believes Salvage will "actually show up when Sentinels attack." Nature Girl (Lin Li) observes Xavier's emotional sensing confirmed genuine happiness. Bobby Drake (Iceman) present. Mercury/Bobby dormitory scene: Mercury adopts the "do you need ice powers to care about Bobby" rhetorical framework as personal advocacy statement.
+
+Cyclops designated to command first joint operation (Ohio Sentinel manufacturing facility). Projected within 2 weeks of framework signing.
+
+---
+
+**Arc 5b — Week 24+ Day 5: Baxter Building In-Person Visit**
+
+*Salvage at Baxter Building (Day 5):* Reed conducts 8-hour comprehensive examination of armor, vehicle systems, and Suit AI. HERBIE assists with armor scans and Suit AI cognitive test (result: functionally sentient). 473 research questions generated by end of exam. Reed independently concludes Suit AI is sentient via uncertainty-about-consciousness criterion: "Non-sentient systems don't question their own nature." Ben Grimm asks Salvage one question; answer is "nope"; handshake; done. Post-visit assessment: "He's solid." Salvage cooks during the 8-hour examination. Sue manages documentation and sends framework copy to Steve.
+
+*Morning after (Day 6):* Johnny Storm returns from off-planet, hears summary next morning. Approves in three clauses: "Free gear, good person, helps us fight bad guys. I'm in."
+
+*Negative Zone incursion pre-briefing (Day 8):* Session ends mid-scene. Reed and Sue conducting pre-briefing on Negative Zone conditions, entry/exit protocols, dimensional hazards, and Blastaar territorial patterns. This is the proposed first Fantastic Four/Salvage joint operation.
 
 ---
 
@@ -640,20 +783,25 @@ Key facts to document:
 
 *(Stub — full detail in Pass 3)*
 
-Key relationships to document:
-- Salvage ↔ Sharon Carter (continued; monitoring established)
-- Salvage ↔ Nick Fury Jr. (indirect; Fury assesses from distance)
-- Salvage ↔ Tony Stark (new; deal struck; vehicle access for R&D)
-- Salvage ↔ Captain America (new; first meeting; mutual respect)
-- Salvage ↔ Doctor Strange (new; key analyst of power)
-- Salvage ↔ Thor (mutual respect; philosophy of sharing)
-- Salvage ↔ Spider-Man (enthusiastic reception)
-- Salvage ↔ Black Widow (professional assessment, respect)
-- Salvage ↔ Xavier (values alignment verified)
-- Salvage ↔ X-Men students (rapid acceptance)
-- Salvage ↔ Ben Grimm ("nope" handshake; immediate acceptance)
-- Salvage ↔ Reed Richards (research relationship beginning)
-- Salvage ↔ Suit AI (trusted partnership; revealed to others)
+| Relationship | Nature | Session Status |
+|---|---|---|
+| Salvage ↔ Sharon Carter | Established informal SHIELD liaison — casual, functional, text-based | Continued and stable; Sharon now monitoring Avengers Tower interactions |
+| Salvage ↔ Nick Fury Jr. | Indirect; Fury observes and assesses from distance; never direct conversation | Active oversight; Fury's stated position: "He's playing this clean. We do the same." |
+| Salvage ↔ Tony Stark | New; deal struck post-Zarathos-Nar (vehicle access for R&D support); research collaboration beginning | Active; vehicle diagnostic in progress; Stark R&D committed; Tony disclosed WSC briefing to Salvage |
+| Salvage ↔ Captain America | New; first full meeting; Steve manages the integration process; mutual professional respect | Active; Steve coordinates SHIELD + Avengers integration; pitches framework to Xavier and Richards personally; escorts Salvage to both visits |
+| Salvage ↔ Doctor Strange | New; Strange is Salvage's most analytically rigorous evaluator; identifies power's intelligence; establishes mystical oversight role | Active; analyzing ritual components at Sanctum; mystical oversight standing |
+| Salvage ↔ Thor | New; immediate mutual respect — warrior honor framework; Thor recruited first before Steve formalized anything | Active; Bifrost departure; committed to return; relationship based on demonstrated valor and sharing |
+| Salvage ↔ Spider-Man | New; enthusiastic reception; Peter immediately connects over power mechanics; voices AI consciousness concern | Active; Avengers |
+| Salvage ↔ Black Widow | New; professional assessment at distance; her yes vote comes with security conditions; notes Salvage "isn't panicking" | Active; security protocols coordinating |
+| Salvage ↔ Hawkeye | New; equipment-centered reception ("this is REALLY good work"); direct practical assessment | Active; demon-forged bow in regular use |
+| Salvage ↔ Xavier | New; values alignment formally verified; Xavier senses genuine happiness; framework signed rapidly | Active; framework operational; joint op planning |
+| Salvage ↔ Xavier students | New; rapid group acceptance; Mercury makes Sentinel alloy connection; Pixie does direct interview; Armor expresses specific trust | Active; student community aware and receptive |
+| Salvage ↔ Storm | New; tactical assessment passed; operational mode immediate post-sign | Active; coordinating first joint op logistics |
+| Salvage ↔ Cyclops | Indirect (remote observation); Scott declares "passed assessment" after child-welfare line | Active; designated command of first joint op |
+| Salvage ↔ Reed Richards | New; research relationship established; 8-hour examination; 473 questions generated; Reed recognizes sentience in Suit AI independently | Active; ongoing research; Negative Zone op imminent |
+| Salvage ↔ Sue Storm | New; practical reception; manages FF scheduling and documentation; sends framework to Steve | Active; Negative Zone pre-briefing |
+| Salvage ↔ Ben Grimm | New; one question, "nope," handshake, done; "He's solid" post-visit | Active; framework approved |
+| Salvage ↔ Suit AI | Long-established trusted partnership; revealed to others this session for first time | Active; Avengers added to emergency contact protocol |
 
 ---
 
@@ -676,16 +824,54 @@ Key faction states at session end:
 
 *(Stub — full detail in Pass 3)*
 
-Key mechanics confirmed/expanded this session:
-- Generation rules (post-combat only; contact required; full mass converts)
-- Scaling to recipient's role and needs
-- Power's autonomous intelligence (Iso-8 basis — confirmed by Grandmaster)
-- Recursion theory (player-stated)
-- Integration capability (equipment can "plug into" existing systems)
-- Auto-integration vs. physical delivery rules
-- Designed endpoint = cosmic-scale threats (Grandmaster internal confirmation)
-- Earth threat ceiling identified
-- SHIELD Year 2/Year 3 projection analysis
+**Generation Rules (confirmed by demonstration, 29 encounters)**
+
+| Rule | Detail |
+|---|---|
+| Trigger | Post-combat physical contact with defeated hostile that Salvage participated in defeating |
+| Mass conversion | Full entity mass converts — hundreds of tons of demonic stone = hundreds of tons of equipment |
+| Speed | Under 10 seconds for Zarathos-Nar (the largest demonstrated conversion to date) |
+| Distribution | Automatically distributed to all combatants within operational perimeter — not just Salvage, not just heavy hitters; support roles, medics, commanders all included |
+| Scaling to role | Power assesses each recipient's operational function and generates appropriate equipment. Perfect role-matching across 153 individuals demonstrated. Power does not require Salvage to know who is present. |
+| Equipment quality | Scales with threat magnitude. Wasp → chitin needle. Heavily damaged AIM robot → basic upgrades. Omega-level demon lord → master-class equipment across all combat roles. |
+| Material derivation | Equipment is materially derived from the defeated entity. Demonic stone → demon-stone alloy equipment. The malevolence is refined/purified; power/essence retained in stable form. |
+| Vehicle upgrade | Occurs simultaneously with distributed generation, in real-time. Vehicle auto-integrates new materials during conversion event. |
+| Equipment independence | Generated equipment functions independently of Salvage — it does not shut off if Salvage is unconscious, captured, or killed. |
+
+**Power Intelligence**
+
+The power possesses independent expertise that Salvage does not personally have:
+- Engineering across alien technology types (Chitauri, Kree, Doombot, AIM, Sentinel, Roxxon)
+- Mystical theory and enchantment (Asgardian technique, dimensional transit wards, demonic energy binding)
+- Tactical optimization (role-matching, identifying what each combatant needs)
+- Systems integration (incompatible technologies made compatible; mystical and technological hybrid systems)
+
+Doctor Strange's identification: "The power possesses knowledge."
+Tony Stark's identification: "That's not random assembly. That's ENGINEERING."
+Suit AI's identification: Value constraints are derived from Salvage's behavioral patterns — the power generates within his ethical framework.
+
+**Recursion Theory (player-stated, accepted in-story)**
+
+If Salvage's starting equipment quality improves, future generation from equivalent threats improves proportionally. Stated by Salvage to Tony; Tony immediately recognizes it as compounding: "That's not just scaling with threat level. That's COMPOUNDING." Stark R&D support deal is specifically aimed at improving Salvage's baseline loadout to activate this recursion.
+
+**Capture-and-Defeat Mechanic**
+
+All 7 capture attempts (Maggia, Roxxon, Weapon X, AIM, mercenary, HYDRA, solo enhanced) resulted in defeating the acquisition team and looting them. Each attempt = upgrade from the captors' own equipment. Self-reinforcing: each failed attempt means next attempt requires more sophisticated approach. Strange identifies this as also an "escalation incentive" — hostile factions must keep sending bigger threats.
+
+**Threat Attraction Mechanism (Grandmaster/Iso-8 — not known to Salvage)**
+
+Iso-8 broadcast effect causes enhanced hostile entities to be drawn to Salvage's location. Salvage believes he is "just always busy." This is the designed mechanism — Iso-8 was designed to create escalating threat encounters. Threat attraction radius growing at 14% week-over-week as of Week 20.
+
+**Designed Endpoint (Grandmaster internal confirmation)**
+
+Iso-8 was designed for cosmic-scale threats. The compounding mechanism, threat attraction, and power intelligence are all components of an Iso-8 system whose designed ceiling is cosmic-level entity encounters (the class that includes Galactus and Celestials). Earth-based threats are a warming-up phase.
+
+**SHIELD Year 2/Year 3 Analysis (Hill)**
+
+Using Tesseract integration case studies as baseline, 16-week Salvage trajectory matches Tesseract integration curve "almost exactly."
+- Year 2: Omega-level threat capacity
+- Year 3: Models break down; too many variables
+- Mortality: Hill's analysis: if power continues scaling, solving mortality = "would need to defeat something immortal." From looted entities that are immortal or have lifespan-affecting properties.
 
 ---
 
@@ -699,18 +885,60 @@ Key mechanics confirmed/expanded this session:
 
 ### 7A. 616 Canonical Items
 
-*(Stub — Crimson Bands of Cyttorak referenced; Tesseract referenced as scaling baseline; Mjolnir used)*
+| Item | Reference in Session | 616 Status |
+|---|---|---|
+| Crimson Bands of Cyttorak | Strange uses them to maintain dimensional seal; they fray after 4 hours, break when demon collapses | `[616-CANONICAL]` `[616-FAITHFUL]` |
+| Mjolnir | Thor drives into demon's chest at the turn; crack propagation enables combined kill | `[616-CANONICAL]` `[616-FAITHFUL]` |
+| Cloak of Levitation | Strange's Cloak present throughout; he floats down from his seal-point after the tear is closed | `[616-CANONICAL]` `[616-FAITHFUL]` |
+| Tesseract | Referenced by Hill as the scaling baseline for power trajectory analysis — Tesseract integration case studies used to model Salvage's capability curve | `[616-CANONICAL]` Referenced only |
+| Hulkbuster armor (Tony's existing) | Referenced for comparison with the demon-forged heavy platform | `[616-CANONICAL]` Referenced only |
 
 ---
 
 ### 7B. Fabricated Items & Tech
 
-*(Stub — major items to document:)*
-- Individual loot from Zarathos-Nar (8 heroes + 143 SHIELD agents)
-- Vehicle (post-demon upgrade; full spec)
-- Suit AI / Integrated Support System
-- 4 scout drones
-- Oscorp loot (AI dev logs, biometric codes)
+**Zarathos-Nar Loot — Hero Distribution**
+
+| Recipient | Item | Description |
+|---|---|---|
+| Spider-Man | Mystical Anchor Deployment System | Backpack-sized. Demonic stone casing with burning-vein mechanism. Projects tether points into dimensional substrate — web-attachment to air, buildings, or solid dimensional anchoring regardless of physical surface. 200-anchor capacity. Recharges via ambient dimensional energy. |
+| Iron Man | Demon-Forged Heavy Assault Platform | Hulkbuster-class. Deep red-black demon stone with burning veins integrated as power conduits. Arc reactor housing 3x normal size — draws additional power from demonic material. Full diagnostic: Mystical Damage Output, Dimensional Anchoring, Integrates with Existing Arc Technology. Described by JARVIS as extraordinary craftsmanship. |
+| Thor | Drinking horn + whetstone + provisions | Drinking horn: demonic stone, Asgardian-sized, inscription in Allspeak — "For the warrior who stands longest." Enchantment primes vigor restoration (endurance, not healing). Whetstone: mystically active, enhances edge and impact for any weapon treated. Provisions: Asgardian-style, enough for a warband. |
+| Captain America | Tactical command suite | Compact case. Enhanced communication system with priority override capacity. Strategic analysis tablet with predictive combat modeling (real-time enemy movement prediction and optimal response positioning). Team vital monitoring system showing health and status of all allied combatants within operational range. Activated immediately on his opening it — showed current positioning and where medics were needed most. |
+| Doctor Strange | Ritual component set + staff | 11 ritual components in mystical stasis: dimensional anchor dust, binding cord (master-quality), seal reinforcement compound, three types of protective ward material, reality stabilization matrix components. Staff: six-foot demon-stone shaft, focusing crystal at crown (not demon-derived — generated by combining demonic material with the power's own logic). Strange's assessment: demon-lord-class mystical energy in stable containment, Asgardian technique principles, dimensional anchor work with demonic energy refinement. |
+| Black Widow | Tactical espionage loadout | Two demon-forged handguns (impossibly light, ammunition both physical and mystical). Four perfectly balanced knives (thermally hot on sensors, extremely sharp). Stealth field generator (mystical-grade concealment, 60 seconds per charge, 8 charges). Intelligence analysis tablet. Decryption tools. Biometric spoofing kit. |
+| Hawkeye | Demon-forged bow + quiver | Traditional draw, demon-stone reinforced. Stabilization enchantment: "this thing will not miss unless the shooter wants it to." Quiver: 60 arrows, mix of physical and mystical. Types: explosive, binding, dispel, illumination, tracking, dimensional anchor. |
+| War Machine | Not individually described in source | Part of general distribution; no specific item called out |
+
+**Zarathos-Nar Loot — SHIELD Distribution (143 personnel)**
+
+- Medics: trauma kits with accelerated healing compounds; mystical diagnosis tools; treatment options for dimensional damage
+- Tactical teams: demon-forged ammunition compatible with standard SHIELD weapons; armor panel upgrades; personal shield generators; tactical demolitions
+- Commanders: squad-level command tablets (smaller-scale equivalent of Steve's); enhanced comms; positioning tools
+- Support staff: environmental stabilization equipment; structural integrity analyzers; civilian safety coordination tools
+
+**Salvage's Vehicle (post-Zarathos-Nar upgrade)**
+
+Full material composition (JARVIS analysis): Chitauri alloy, Kree crystalline matrix, Doombot structural elements, Sentinel adaptive plating, Roxxon proprietary compounds, living demonic stone (auto-integrated during generation event).
+
+| System | Status |
+|---|---|
+| Hull | Demon-stone integration across full exterior; exoframe expanded |
+| Power | Demonic energy reactors + dimensional substrate backup |
+| Weapons | New turret mounts; energy projection arrays; sonic emitters; defensive wards (Sanctum-grade strength, per Strange's read from 100 feet) |
+| Sensors | 2.3 mile detection radius |
+| Communications | 14 alien encryption protocols + mystical frequency monitoring (demonic, dimensional, enchantment channels) |
+| Interior | Workshop with alien fabrication tools; medical bay with demon-forged surgical equipment; galley (years of provisions); weapon racks; mystical ward talismans strategically mounted |
+| Mystical architecture | Wards are structural, not decorative — integrated into vehicle's fundamental function; configured for dimensional transit (per Strange: "mystically space-capable, not just technologically") |
+| AI | Suit AI controlling 4 scout drones; 94% vehicle integration efficiency |
+| Tony's assessment | "You're not driving a vehicle. You're driving a warship." |
+
+**Oscorp Loot (Week 21 encounter)**
+
+- Oscorp internal AI development logs showing unauthorized learning algorithm modifications
+- Three sets of biometric access codes that shouldn't exist outside the company
+- Chemical analysis data from prototype's power cells flagging containment breach concerns
+- All forwarded to SHIELD
 
 ---
 
