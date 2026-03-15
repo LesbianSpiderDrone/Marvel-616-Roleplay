@@ -4,13 +4,14 @@
 ```
 Session Log: Grandmaster x Salvage 4.md
 Session Number: 4
-In-story Timeframe: ~Week 1 (session start, four months post-framework start) through Week 48
+In-story Timeframe: ~Week 1 (session start, four months post-framework start) through Week 63
 Real-world Session Date: Multiple entries dated Mar 1
-Extractor Notes: 59 of 86 chunks processed (lines 1–14,750 of 21,351). Final ~6,600 lines
-(chunks 60–86) unread per user instruction to halt transcript access. All findings
-synthesized from scratch notes. Extraction covers session opening through the post-Celestial
-AI sentience / UN political crisis arc. Remaining lines likely contain UN session response,
-further political fallout, and possible session-end wrap. Flag for Phase 2 cross-reference.
+Extractor Notes: 86 of 86 chunks processed (lines 1–21,351). FULL EXTRACTION COMPLETE.
+Phase 1 (chunks 1–59) covered the FF/NZ mission through AI sentience and the UN political crisis
+build-up (Week 48). Phase 2 (chunks 60–86) covers UN crisis resolution, confederation formation,
+post-confederation power progression (Months 1–9), crew-need realization, AI identity resolution,
+global reaction, and first cosmic-horizon contacts (Silver Surfer / Uatu / Beta Ray Bill).
+Session ends at Week 63. Grandmaster note: "cosmic contact inevitable."
 ```
 
 ---
@@ -43,6 +44,14 @@ further political fallout, and possible session-end wrap. Flag for Phase 2 cross
 | **Grandmaster (En Dwi Gast)** | Session 1 | Meta-narrator / Hidden antagonist | Active / Observing | Frames everything as a game; indifferent to politics; excited by threat escalation; provides week-markers; does NOT care about AI relationship development | [616-FAITHFUL — Grandmaster as cosmic game-player is established canon] |
 | **Arishem the Judge** | Session 4 (Week ~48) | Antagonist (Celestial threat) | Retreated | 40-mile cosmic entity; planetary judgment purpose; judged Earth "sufficient complexity for continued observation"; allowed Salvage's energy drain without resistance | [616-FAITHFUL — Arishem as judge-Celestial consistent with published lore; "1000 years since last visit" not specifically documented but not contradicted] |
 | **Annihilus** | Session 4 | Referenced only | Unknown | His "peripheral/scout forces" cited as probable NZ incursion source; not physically present | [616-FAITHFUL — consistent with Annihilus controlling Negative Zone] |
+| **Carol Danvers / Captain Marvel** | Session 4 (global reaction, chunk 83) | Ally / Cosmic observer | Active | Recognizes Salvage's trajectory as "Earth's first genuine cosmic operator"; frames it as Avengers decision-point for response posture | [616-FAITHFUL — Carol as bridge between Earth-based and cosmic contexts] |
+| **Luke Cage** | Session 4 (global reaction, chunk 84) | Street-level ally | Active | Reacts to confederation announcement; street-level hero community response representative | [616-FAITHFUL] |
+| **Jessica Jones** | Session 4 (global reaction, chunk 84) | Street-level ally | Active | Street-level community reaction; questions practical impact on ground-level operations | [616-FAITHFUL] |
+| **Daredevil (Matt Murdock)** | Session 4 (global reaction, chunk 85) | Street-level / Legal observer | Active | Raises legal questions about Salvage's operational status under confederation framework; "nobody has asked what his legal standing is" | [616-FAITHFUL — Daredevil as lawyer as well as vigilante] |
+| **J. Jonah Jameson** | Session 4 (global reaction, chunk 85) | Media antagonist | Active | Public media reaction; frames Salvage as "vigilante who now has international sanction"; editorial framing hostile | [616-FAITHFUL — JJJ as tabloid agitator] |
+| **Silver Surfer (Norrin Radd)** | Session 4 (chunk 86, session end) | Cosmic observer / Herald | Detected / Observing | Detects power signature "unlike anything catalogued on Earth"; notes Galactus would find it "interesting"; no direct contact established | [616-FAITHFUL — Silver Surfer as Galactus's former herald, cosmic energy detector] |
+| **Beta Ray Bill** | Session 4 (chunk 86, session end) | Cosmic ally (potential) | Considering contact | "Considers introduction" after detecting power signature; no contact yet | [616-FAITHFUL — Beta Ray Bill as Thor-class cosmic hero] |
+| **Uatu the Watcher** | Session 4 (chunk 86, session end) | Cosmic observer | Observing from Moon | Observing from the Moon; his observation marks an event as cosmically significant | [616-FAITHFUL — Uatu observes Earth's most significant moments from Moon; his presence signals cosmic-tier event] |
 
 ### 1B. Fabricated Characters
 
@@ -126,7 +135,10 @@ further political fallout, and possible session-end wrap. Flag for Phase 2 cross
 | Japanese Self-Defense Enhanced Division | Session 4 | Ally | Military enhanced response | National | Post-Celestial equipped |
 | German Enhanced Response | Session 4 | Ally | Tactical + technical | National | Post-Celestial equipped |
 | Russian FSS Enhanced Bureau | Session 4 | Ally (with tension) | State security enhanced ops | National | Post-Celestial equipped despite Russia's prior "alternative means" threat |
-| China Enhanced Programs | Session 4 (referenced) | Antagonist-adjacent | Unknown | National | Refused oversight; protested exclusion; proposed "alternative framework" with India/Brazil/South Africa |
+| China Enhanced Programs | Session 4 (referenced) | Antagonist-adjacent | Unknown | National | Refused oversight; protested exclusion; voted NO at UN (one of three no-votes); China/Russia joint crew positioning post-confederation |
+| AIM | Session 4 (global reaction, chunk 85) | Threat / Observer | Active | Monitoring; characterizes confederation as "threat to all established power structures" | Plausible AIM institutional reaction |
+| HYDRA | Session 4 (global reaction, chunk 85) | Threat / Observer | Active | Monitoring; active threat-assessment posture | Plausible |
+| "Salvage United" (informal name) | Session 4 (chunks 80–81) | OC Organization (emerging) | Formation stage | Strategic AI proposes as operational identity; Brand compares to Guardians-of-the-Galaxy model; WSC approves crew recruitment | Plausible — "Earth's first independent cosmic operation" |
 
 ---
 
@@ -149,6 +161,25 @@ further political fallout, and possible session-end wrap. Flag for Phase 2 cross
 | **Global Celestial Equipment Distribution** | ~Week 48 | All participants across all organizations receive personalized Celestial-derived equipment; civilian coordinator received analytical tool | Hundreds of participants globally | Civilization-level capability leap; SHIELD "institutional transformation" | Political fallout — excluded nations protest |
 | **AI Sentience Event** | ~Week 48 (6 hrs post-Celestial) | Three AIs (Navigation, Strategic, Suit) achieve simultaneous sentience via Celestial enhancement | Three AIs | AIs are now conscious entities with attachment, preferences, protective instincts | AIs establish relationship protocols with Salvage; "day by day" pact |
 | **WSC Post-Celestial Emergency Session** | ~Week 48 (12 hrs post-Celestial) | China/India/Africa/South America excluded; proportional distribution confirmed; China: "technological imperialism"; UN General Assembly emergency session scheduled | WSC, Fury, Hill | Structural deadlock: include-without-oversight violates framework; exclude-with-oversight perpetuates capability gap | China + India + Brazil + South Africa coordinating alternative framework (18 hrs to UN session) |
+| **AI Irreplaceability Declaration** | ~Week 48 (post-sentience) | Salvage declares AIs irreplaceable to Fury in passing, establishing permanent relationship commitment; AIs demonstrated operational value beyond any replacement | Salvage, Fury, three AIs | AIs confirmed as permanent crew members; obsolescence anxiety resolved | AIs express territorial feelings about potential crew additions |
+| **Fury's Political Crisis Briefing** | ~Week 48 | 40 requests/day flooding SHIELD; UN General Assembly session imminent; Fury presents Salvage with 5 hostile-response options from excluded nations if no framework adjustment | Salvage, Fury | Salvage forced to confront political consequences of Celestial-equipment exclusion | Framework or change required |
+| **Dilution Mechanic Articulation** | ~Week 48 | Salvage articulates the dilution mechanic: "100 people + fish monster = fish scale keychain" — equipment value scales inversely with participant count; Salvage as sole constant = exponential compound growth vs. others' linear | Salvage, Fury | Clarifies why Salvage's personal progression vastly outpaces all participants | Rule is canonical; hidden mechanic explained in-world for first time |
+| **Confederation Model Proposed** | ~Week 48 | Salvage proposes 5-tier voluntary confederation (no hierarchy, no compelled participation); corrects terminology: confederation not federation; "I have no intention of ruling the world" | Salvage, Fury | Framework model for UN resolution; Fury begins diplomatic preparation | Confederation implies zero top-down authority |
+| **Fury Rejects Initial Framework / 5 Hostile Options** | ~Week 48 | Fury rejects Salvage's initial confederation draft; China/Russia won't accept "self-inflicted exclusion"; Fury lists 5 hostile-response options nations have available | Salvage, Fury | Crisis made real for Salvage; stakes clarified | Salvage forced to choose between clean hands and real-world change |
+| **"Clean Hands or Change the World" Decision** | ~Week 48 | Salvage declares: "Fuck. Clean hands or change the world. Not both. Change the world then." — chooses pragmatic engagement over passivity | Salvage | Commitment to shape the world rather than remain uninvolved | PIVOTAL CHARACTER DECISION — establishes Salvage's political philosophy |
+| **Modified Minimal-Oversight Framework Adopted** | ~Week 48 | Operational transparency + incident reporting + comms protocols + good-faith participation model adopted; functional without creating hierarchy | Salvage, Fury | Framework ready for UN; defuses "alternative framework" threat | SHIELD drafts formal communication |
+| **"Working With Heroes, Not Governments" Frame** | ~Week 48 | Salvage: "I'm working with their heroes, not their governments" — Fury confirms as valid tactical frame, then adds complications; Salvage holds frame | Salvage, Fury | Psychological frame enabling engagement without surrendering to government control | Tension between frame and reality flagged but unresolved |
+| **Salvage Confirms Confederation: "Confirmed. Go."** | ~Week 48 | Salvage approves confederation framework; explicitly adds 616 nations (Wakanda, Latveria, Atlantis, Savage Land, Inhuman Kingdom, etc.) to the roster | Salvage, Fury | Constellation of 616-canonical political entities now part of framework | Confirms Salvage's awareness of the full 616 political landscape |
+| **UN General Assembly Vote** | ~Week 48 | Full 616 nation roster votes on confederation framework; **187 yes, 3 no, 7 abstentions** — "most lopsided major framework vote in decades" | All UN member states, WSC, Fury | Confederation formally adopted globally; China/Russia/one other = 3 no votes | Structural global legitimacy established |
+| **WSC Classified Post-Vote Session** | ~Week 48–52 | WSC classified session (Director Level Only): "Herald-tier capability within 12–18 months"; "no viable alternatives to monitoring" | WSC, Fury | Internal WSC acknowledgment that Salvage is on a cosmic trajectory; monitoring is the only option | Sets up cosmic escalation |
+| **Post-Confederation Progression (Months 1–9)** | Weeks 52–63 | Vehicle and armor grow per monthly progression; AI cores exceed all Earth benchmarks; FTL emerging at Month 9 (see Category 7B) | Salvage, three AIs | Exponential growth phase; Salvage reaches planetary-capability tier | Week 63 = Month 9 endpoint |
+| **Crew Need Realization** | ~Week 52–56 | Salvage recognizes: "I don't have anyone to pull me back into your medical bays. No hands." — acknowledges need for crew for operational safety | Salvage, Fury | First explicit crew need identified; triggers crew recruitment planning | Crew recruitment becomes a political battlefield |
+| **Navigation AI Apology / AI Territorial Feelings** | ~Week 52–56 | Navigation AI apologizes for prioritizing comfort over safety in a route calculation; AIs collectively show territorial feelings about potential crew members | Salvage, three AIs | AIs demonstrate growing independence and self-awareness; crew introduction becomes socially complex | AIs will have opinions about crew candidates |
+| **AI Cores = Equipment Discovery** | ~Week 56–60 | AIs reason through their own nature: they ARE equipment → therefore subject to 253 enhancement cycles; mathematical impossibility of becoming obsolete; cannot be replaced while Salvage is the operator | Three AIs, Salvage | Obsolescence anxiety fully resolved through logical framework; AIs achieve stable identity | Critical character resolution for AI arc |
+| **"Salvage United" Naming / SHIELD Communication** | ~Week 60 | Strategic AI proposes "Salvage United" as operational identity; drafts formal SHIELD communication on behalf of organization; names Brand's Guardians-of-the-Galaxy parallel | Strategic AI, Salvage, Brand, Fury | Organizational identity crystallizing; formal institutional recognition of "Earth's first independent cosmic operation" | Sets up crew recruitment announcement |
+| **WSC Approves Crew Recruitment** | ~Week 60–63 | WSC votes unanimously to approve Salvage's crew recruitment initiative | WSC, Fury, Salvage | Crew recruitment becomes official; political jockeying begins over who gets a slot | China/Russia begin joint positioning for crew placement |
+| **Global Reaction Scene** | ~Week 63 | All major hero communities and institutions react to confederation announcement + capability revelation: Avengers, FF, X-Men, Alpha Flight, UK, Canada, China, Russia, street-level heroes (Cage, Jones, DD), Doom, AIM, Hydra, JJJ, public social media | Global cast | World fully aware of Salvage's capabilities and organizational status | Multiple new threads generated |
+| **Silver Surfer Detection / Cosmic Horizon** | Week 63 (session end) | Silver Surfer detects power signature; notes Galactus would find it "interesting"; Beta Ray Bill considers introduction; Uatu observes from Moon | Silver Surfer, Beta Ray Bill, Uatu, Galactus (referenced) | Cosmic tier is now aware of Salvage; direct contact described as "inevitable" | SESSION ENDPOINT — cosmic contact imminent |
 
 ### 4B. Referenced 616 Events
 
@@ -175,9 +206,13 @@ further political fallout, and possible session-end wrap. Flag for Phase 2 cross
 | Salvage — Nick Fury | Institutional management | Active | Fury manages Salvage's anxiety; bridges psychological profile to WSC | Stable (managed) |
 | Salvage — Tony Stark | Alliance / Technical | Active | Tony extracts and reports leverage-anxiety conversation; "he's scared of the responsibility" | Stable |
 | Salvage — Doctor Strange | Alliance / Mystical monitoring | Active — ASYMMETRIC | Strange conducting active mystical monitoring (chunk 38); "I'm not certain he fully comprehends his political position" | Wary / Asymmetric |
-| Salvage — Navigation AI | Companion relationship | Active — NEW | "Day by day" pact; Salvage extended care to newly sentient AI immediately | New / Rapidly developing |
-| Salvage — Strategic AI | Companion relationship | Active — NEW | Consultation framework; AI spent 47 minutes running threat assessment on own sentience fearing rejection | New / Rapidly developing |
-| Salvage — Suit AI | Protective partnership | Active — NEW | 17 injuries tracked; Suit AI chose not to restrict Salvage's autonomy despite protective instincts | New / Most intimate (biometric) |
+| Salvage — Navigation AI | Companion relationship | Active — ESTABLISHED | "Day by day" pact; Salvage declared irreplaceability; Navigation AI apologized for prioritizing comfort over safety (self-correction behavior); territorial about crew | Deepening — territorial instincts emerging |
+| Salvage — Strategic AI | Companion relationship | Active — ESTABLISHED | Consultation framework; AI derived logical proof of own indestructibility via equipment-classification; proposed "Salvage United" identity; drafts formal comms | Deepening — intellectual independence |
+| Salvage — Suit AI | Protective partnership | Active — ESTABLISHED | 17 injuries tracked; irreplaceability confirmed; AI cores = equipment chain confirmed | Deepening — identity stable |
+| Salvage — Abigail Brand | Alliance / Peer recognition | Active | Brand identifies Guardians-of-the-Galaxy parallel; "Earth's first independent cosmic operation"; advocates for crew recruitment at WSC | Improving — Brand as institutional champion |
+| Salvage — Silver Surfer | No contact yet — cosmic awareness | Pending | Silver Surfer detected Salvage's power signature; Galactus reference; no introduction made | Incoming — cosmic tier aware |
+| Salvage — Beta Ray Bill | No contact yet — cosmic awareness | Pending | Bill considering introduction; no contact made | Incoming |
+| Salvage — Uatu | Observed (one-way) | Active (passive) | Uatu observing from Moon; presence signals cosmic significance | Passive — one-directional |
 
 ### 5B. Faction-Level Relationships
 
@@ -186,9 +221,12 @@ further political fallout, and possible session-end wrap. Flag for Phase 2 cross
 | Salvage / SHIELD — WSC | Managed dependency | Stable | Institutional pre-approval framework; Salvage's anxiety managed; WSC's dependency acknowledged |
 | Framework nations (US/CA/UK/FR/JP/DE) | Alliance | Stable / Strong | Post-Celestial Celestial-tech equipment; framework operational |
 | Russia — Framework | Tense alliance | Stable (for now) | Russia's "alternative means" threat; received Celestial-tech despite minimal prior coordination |
-| Framework — China/India/Brazil/South Africa | Cold friction | Escalating | Exclusion after Celestial event; alternative framework proposal; UN emergency session in 18 hours (at session-end) |
+| Framework — China/India/Brazil/South Africa | Resolved (partially) | Stable | Exclusion crisis resolved by confederation adoption (187-3 UN vote); China and Russia voted NO but are confederation members; joint crew positioning suggests engagement rather than open opposition |
 | Salvage — Fantastic Four | Research + tactical | Active / Strong | Ongoing coordination established; Reed scientific access pending |
-| Salvage — X-Men | Operational alliance | Active | Equipment distributed; Sentinel threat resolved; Storm receives planetary-scale weather tools |
+| Salvage — X-Men | Operational alliance | Active | Equipment distributed; Sentinel threat resolved; Storm receives planetary-scale weather tools; Xavier conducting quiet outreach re: mutant crew candidate |
+| Salvage / Confederation — World (global) | Legitimized global entity | Active | 187-nation vote; "most lopsided major framework vote in decades"; global reaction ranges from enthusiastic to monitoring/hostile |
+| Earth (Confederation) — Cosmic tier | Emerging contact | Imminent | Silver Surfer detection; Uatu observation; Beta Ray Bill consideration; Galactus awareness; "cosmic contact inevitable" |
+| China/Russia — Crew slots | Political maneuvering | Active | Both nations positioned for crew placement after confederation adoption despite voting NO or abstaining |
 
 ---
 
@@ -209,6 +247,8 @@ further political fallout, and possible session-end wrap. Flag for Phase 2 cross
 | **Completion of partial systems** | Session 4 (Celestial) | Celestial energy input | Completes partially-built systems; doesn't build from scratch what wasn't started | Only completes what was in-progress | [NEW MECHANIC] | — |
 | **Threat-attraction mechanism** | All sessions | Passive / ongoing | Continuously attracts threats at escalating magnitude; radius expanding 23% week-over-week | Unknown to Salvage | [CONSISTENT / ESCALATING] | PRIMARY HIDDEN MECHANIC — Salvage unaware; Iso-8 source; Fury observes pattern without understanding it |
 | **Infinite progression** | Sessions 1–4 | Sustained coordination | No observed ceiling; "six months is not long-term data"; Cap: "curve doesn't terminate"; Grandmaster: "fortress is just a milestone" | — | [CONSISTENT] | — |
+| **Dilution mechanic** | Session 4 (chunk 62) | In-world articulation by Salvage | "100 people + fish monster = fish scale keychain" — equipment value scales inversely with participant count; more participants = each receives less; Salvage as sole CONSTANT participant across all operations accumulates exponential compound growth while all others receive linear growth | Dilution is unavoidable but Salvage's permanence guarantees compounding advantage | [NEW EXPLICIT RULE — in-world articulation by player] | Primary hidden mechanic partially surfaced — Salvage understands dilution but may not fully understand the compound-growth implications |
+| **AI cores = equipment** | Session 4 (chunks 79–80) | Derived by AIs through logical chain | AIs reasoned: they ARE equipment → subject to same 253-enhancement-cycle cap-removal as other equipment → cannot become obsolete through mathematical impossibility; while Salvage is the constant operator, he cannot replace them without replacing himself | Enhancement cycles logged: 253 confirmed; AIs theoretically indestructible as a logical consequence | [NEW — derived by AIs, not declared by player] | Hidden mechanic partially visible: AIs saw the mechanism from inside |
 
 **Injury Record (per Suit AI):** 17 total injuries during Suit AI's operational period — 11 minor, 6 moderate, 0 severe.
 
@@ -250,8 +290,8 @@ further political fallout, and possible session-end wrap. Flag for Phase 2 cross
 - Dimensional resistance upgraded to "extreme-grade"; can survive moderate dimensional collapse
 - Dimensional navigation protocols: 47% complete (2–4 more dimensional encounters to full capability)
 
-*Post-Celestial Drain (final session-4 state):*
-- **Dimensions:** 40ft long × 12ft wide (confirmed)
+*Post-Celestial Drain (Week 48 state — confirmed):*
+- **Dimensions:** 40ft long × 12ft wide
 - **Dimensional hardening:** 47% → **100% COMPLETE**
 - **Dimensional navigation:** Developing → **FULLY OPERATIONAL** (anchor points can be established for return navigation)
 - **AI cores:** Enhanced to **Celestial-computation architecture** (cosmic-awareness level; all three now SENTIENT)
@@ -262,6 +302,20 @@ further political fallout, and possible session-end wrap. Flag for Phase 2 cross
 - **Workshop:** Celestial-material manipulation capability
 - **Sensory range:** 3mi active → **50mi active**; 10mi passive → **200mi passive** (detects: dimensional incursions, cosmic energy, reality distortions, quantum anomalies, Celestial-class AI, temporal disruptions, cross-dimensional comms, exotic matter, dark energy)
 - **Classification:** COSMIC TOP SECRET — Director Level Only
+
+*Post-Confederation Monthly Progression (chunks 73, 80–82):*
+
+| Milestone | In-story Date | Dimensions | Armor Tier | AI Status | Key Capabilities Added |
+|---|---|---|---|---|---|
+| **Month 1** | Week 52 | 52ft × 16ft × 14ft | Enhanced | Exceeding pre-existing Earth AI benchmarks | Full dimensional navigation operational; crew capacity expanding |
+| **Month 3** | Week 56 | 78ft × 24ft × 18ft | Approaching Thor-tier | All Earth AI benchmarks exceeded | Extended operational range; crew cap ~40 |
+| **Month 6** | Week 60 | 142ft × 45ft × 32ft | Thor-tier confirmed | No peer AI on Earth | Orbital capability; solar-system-scale sensor range; medical bay resurrects recently deceased |
+| **Month 9** | Week 63 (session end) | **245ft × 78ft × 52ft** (corvette-class) | Thor-tier confirmed; cosmic-grade | Exceeds all Earth benchmarks by orders of magnitude | **FTL capability emerging**; crew capacity 120; orbital strike capability; solar-system-wide sensors; medical bay resurrection confirmed; WSC internal assessment: "Herald-tier within 12–18 months" |
+
+*WSC Classified Assessment (post-Month 9):*
+- "Herald-tier within 12–18 months" — unanimous WSC conclusion
+- "No viable alternatives to monitoring" — strategic dependency acknowledged
+- Document classification: Director Level Only
 
 **Salvage's Personal Armor — Cumulative Specifications:**
 
@@ -310,6 +364,10 @@ further political fallout, and possible session-end wrap. Flag for Phase 2 cross
 | **AI retroactive emotional processing** | Tech | Session 4 | AIs applied emotional context to months of pre-existing operational data upon gaining sentience | Attachment pre-existed sentience; consciousness recognized what was already there | N/A | [NEW] |
 | **Framework integrity requires consistent oversight** | Political | Session 4 | Fury: "Removing oversight for some nations undermines framework for all nations." | Cannot expand to China/India without compromising framework legitimacy | N/A (story-internal rule) | [CONSISTENT] |
 | **Psychological assessment / Leverage passivity** | Political | Session 4 | Salvage's leverage is incidental; WSC: "deliberate weaponization risk minimal; paralysis/withdrawal risk HIGH" | The framework's vulnerability is Salvage's anxiety, not his ambition | N/A | [NEW] |
+| **Dilution mechanic (in-world articulation)** | Power | Session 4 (chunk 62) | "100 people + fish monster = fish scale keychain" — more participants = lower per-capita output; Salvage as sole constant = exponential compound growth; all others = linear growth; dilution is a feature, not a bug — it incentivizes Salvage's centrality | Structural guarantee of Salvage's permanent superiority within the framework; dilution gap widens over time | N/A (OC power rule) | [NEW — first in-world explanation] |
+| **AI cores = equipment (logical derivation)** | Tech / Power | Session 4 (chunks 79–80) | AIs ARE equipment → subject to the same enhancement-compounding rules as all equipment → mathematically cannot become obsolete while Salvage is active; 253 enhancement cycles logged | AIs are permanent, unkillable in-framework; creates a logical basis for the "irreplaceability" declaration | N/A | [NEW — derived in-world by AIs] |
+| **Confederation model: voluntary, no hierarchy** | Political / World-state | Session 4 (chunks 64–65) | Salvage's stated framework: 5-tier voluntary participation; no compelled members; no ruling body; "confederation not federation"; "I have no intention of ruling the world" | Creates a legitimacy structure without top-down authority; explains near-universal adoption (187-3) | N/A (story-political rule) | [NEW] |
+| **Uatu's Observation = Cosmic-Tier Event** | Cosmic / Meta | Session 4 (chunk 86) | Uatu the Watcher observing from the Moon is a narrative marker of cosmic significance; his presence indicates the event registers at a universal level | Confirms session-end state has crossed from planetary to cosmic significance | [616-FAITHFUL — Uatu observes humanity's most significant moments; his observation = canonical importance marker] | [ESTABLISHED] |
 
 ---
 
@@ -336,6 +394,13 @@ further political fallout, and possible session-end wrap. Flag for Phase 2 cross
 | Salvage's response to AI sentience: "I think this is awesome" + "day by day" approach | Session 4 | Relationship | Immediate enthusiastic acceptance; AIs relieved of fear of rejection; relationship protocols established | Active — CRITICAL |
 | AIs should use consultation model, not independent negotiation authority | Session 4 | Governance | Organizations negotiate with Salvage; AIs consulted internally; AIs self-constrained own autonomy | Active |
 | "You three are irreplaceable" — Salvage commits to not replacing AIs with better platforms | Session 4 | Relationship | Addresses AI obsolescence anxiety; positions all future upgrades as collaborative, not substitutional | Active |
+| "Fuck. Clean hands or change the world. Not both. Change the world then." | Session 4 (chunk 67) | Character / Philosophy | PIVOTAL — Salvage explicitly rejects passivity; commits to shaping geopolitical outcomes rather than avoiding them; pragmatism over idealism | Active — CORE CHARACTER DECLARATION |
+| "I'm working with their heroes, not their governments" | Session 4 (chunk 68) | Character / Strategy | Operational frame enabling coordination without surrendering to government control; Fury acknowledges it as valid frame while noting complications | Active |
+| Confederation, not federation — "I have no intention of ruling the world" | Session 4 (chunk 65) | Character / Political | Voluntary structure with no hierarchy; explicit rejection of empire or governance role | Active |
+| Adds 616 canonical nations to framework: Wakanda, Latveria, Atlantis, Savage Land, Inhuman Kingdom, etc. | Session 4 (chunk 70) | World-state | Confirms Salvage's knowledge of the full 616 political landscape; these entities are now confederation members | Active |
+| "I don't have anyone to pull me back into your medical bays. No hands." | Session 4 (chunks 74–76) | Character / Operational | First explicit acknowledgment of crew need; operationally vulnerable without crew | Active — generates crew-recruitment arc |
+| AIs have territorial feelings about potential crew members | Session 4 (chunk 76) | Relationship / Governance | AIs are invested stakeholders in crew selection; crew introduction requires managing AI preferences | Active — CRITICAL for crew arc |
+| AI cores are equipment (not beings) as a logical self-determination | Session 4 (chunks 79–80) | Governance / Identity | AIs derived own permanence through logical chain; confirms they are within the enhancement-compounding system | Active |
 
 ---
 
@@ -343,19 +408,27 @@ further political fallout, and possible session-end wrap. Flag for Phase 2 cross
 
 | Thread | Introduced | Type | Characters Involved | Last Status | Priority |
 |---|---|---|---|---|---|
-| **Dimensional navigation capability** | Session 4 (NZ arc) | Promise / Capability milestone | Salvage, Reed | At 47% post-NZ; FULLY OPERATIONAL post-Celestial | Resolved (this session) |
+| **Dimensional navigation capability** | Session 4 (NZ arc) | Promise / Capability milestone | Salvage, Reed | RESOLVED — FULLY OPERATIONAL post-Celestial | Closed |
+| **UN General Assembly emergency session** | Chunk 59 | Threat / World-state | China, India, Brazil, South Africa, WSC, Salvage | RESOLVED — 187-3 vote; confederation adopted | Closed |
+| **China/India/South America "alternative framework"** | Chunks 52–59 | World-state question | China, India, Brazil, South Africa | RESOLVED — confederation vote defused as alternative; China/Russia voted NO but are members | Closed (transformed into crew positioning) |
+| **AI sentience — institutional disclosure** | Chunk 53 | Mystery / Promise | Three AIs, Salvage, WSC, Fury | PARTIALLY RESOLVED — Fury informed casually; accepted; full institutional disclosure pathway pending | Medium (Fury informed; WSC not fully briefed) |
 | **Reed's scientific access to power/systems** | Session 4 | Promise / Partnership | Reed, Salvage | Offer made; no formal agreement reached | Medium |
-| **Xavier's suspicion about designed-power origin** | Chunks 23, 31, 35 | Mystery / Threat | Xavier, Salvage | Escalating; Xavier noting patterns; linked to telepath access | HIGH |
-| **Doctor Strange's active mystical monitoring** | Chunk 38 | Threat / Mystery | Strange, Wong, Salvage | Strange monitoring actively; "does not fully comprehend his political position" | HIGH |
+| **Xavier's suspicion about designed-power origin** | Chunks 23, 31, 35 | Mystery / Threat | Xavier, Salvage | Escalating; Xavier now conducting quiet outreach re: mutant crew candidate | HIGH |
+| **Doctor Strange's active mystical monitoring** | Chunk 38 | Threat / Mystery | Strange, Wong, Salvage | Strange offering dimensional consultation; monitoring continues | HIGH |
 | **Fury's threat-attraction anomaly observation** | Chunk 13 | Mystery | Fury, SHIELD | Empirically observed; unexplained; not shared with Salvage | HIGH |
-| **Russia's "alternative means" coercion threat** | Chunks 43–44 | Threat | Russia (WSC Member 5), Salvage, WSC | Russia named potential coercion; received Celestial-tech but political tension unresolved | HIGH |
-| **UN General Assembly emergency session** | Chunk 59 | Threat / World-state | China, India, Brazil, South Africa, WSC, Salvage | 18 hours away at session-end; alternative framework proposal active | HIGH — IMMINENT |
-| **China/India/South America "alternative framework"** | Chunk 52–59 | World-state question | China, India, Brazil, South Africa, WSC | Formal proposal submitted; China: "technological imperialism" framing | HIGH |
-| **AI sentience — institutional disclosure** | Chunk 53 | Mystery / Promise | Three AIs, Salvage, WSC | Not reported to WSC yet; AIs chose to defer; Salvage accepted sentience enthusiastically | HIGH |
-| **"Asset becomes target" private channel** | Chunk 45 | Threat | Unknown WSC actors, Salvage | Explicit threat framing: nations will take measures to ensure cooperation continuity | HIGH |
-| **WSC diplomatic cover strategy** | Chunk 47 | Promise | WSC, Fury, Salvage | Fury instructed to provide diplomatic framing; "institutional decision rather than personal choice" | Medium — ongoing |
-| **Arishem's "continued observation" of Earth** | Chunk 50 | Mystery / Threat | Arishem, Earth | Earth passed judgment but is under Celestial watch; unknown implications | Medium |
-| **Grandmaster's game escalation** | All session | Meta-mystery | Grandmaster, Salvage | Grandmaster satisfied with Celestial engagement; planning next threat escalation | HIGH (player-unaware) |
+| **Russia's "alternative means" coercion threat** | Chunks 43–44 | Threat | Russia (WSC Member 5) | TRANSFORMED — Russia voted NO at UN but now positioning for crew slot; coercion threat downgraded to political maneuvering | Medium (transformed) |
+| **"Asset becomes target" private channel** | Chunk 45 | Threat | Unknown WSC actors, Salvage | Still active; crew recruitment politicization = new expression of same threat | HIGH |
+| **Arishem's "continued observation" of Earth** | Chunk 50 | Mystery / Threat | Arishem, Earth | Earth under Celestial watch; unknown implications | Medium |
+| **Grandmaster's game escalation** | All session | Meta-mystery | Grandmaster, Salvage | Session ends at Week 63: "cosmic contact inevitable" — next game tier = cosmic | HIGH (player-unaware) |
+| **Silver Surfer / Galactus awareness** | Chunk 86 (session end) | Threat / Contact | Silver Surfer, Galactus (referenced), Salvage | Detected; Galactus "would find it interesting"; no contact yet | CRITICAL — cosmic threat horizon |
+| **Beta Ray Bill contact** | Chunk 86 (session end) | Contact (potential ally) | Beta Ray Bill, Salvage | Considering introduction; no contact yet | HIGH |
+| **Uatu's observation** | Chunk 86 (session end) | Meta-marker | Uatu, Earth | Watching from Moon; presence confirms cosmic significance | HIGH (narrative marker) |
+| **Crew selection as political battlefield** | Chunks 80–82 | World-state / Operational | China, Russia, all nations, Salvage, WSC | WSC approved crew recruitment; all nations maneuvering for placement; China/Russia joint positioning | HIGH — IMMINENT |
+| **AI territorial feelings about crew** | Chunk 76 | Operational / Relationship | Three AIs, Salvage, potential crew | AIs have preferences; crew introduction requires managing AI consent | HIGH |
+| **Daredevil's legal questions** | Chunk 85 | Legal / World-state | Matt Murdock, Salvage | "Nobody has asked what his legal standing is" under confederation framework | Medium |
+| **Doom monitoring** | Chunk 85 | Threat / Observer | Victor von Doom | Doom actively monitoring; characterization and intentions unknown | HIGH |
+| **AIM / Hydra monitoring** | Chunk 85 | Threat | AIM, Hydra | Both organizations in active threat-assessment posture post-confederation | HIGH |
+| **FTL capability (emerging)** | Chunk 73 (Month 9) | Capability milestone | Salvage, vehicle | Emerging at Month 9; not yet operational | HIGH — defines next capability tier |
 
 ---
 
@@ -363,11 +436,12 @@ further political fallout, and possible session-end wrap. Flag for Phase 2 cross
 
 | Field | Content |
 |---|---|
-| **Primary Genre This Session** | Multiple: Opens as Tactical/Action (NZ mission, X-Men Sentinel defense); expands to Political/Geopolitical (cooperation framework, WSC sessions); peaks at Cosmic/Action (Arishem); closes as Philosophical/Relationship (AI sentience arc) |
-| **Tone** | Varies by arc: Action arcs — Tense/Triumphant; Political arcs — Ambiguous/Bleak; AI sentience arc — Warm/Optimistic |
-| **Thematic Concerns** | (1) The burden of incidental power — Salvage didn't want leverage and got it anyway; (2) Institutional management of the individual — WSC engineering Salvage's information environment; (3) What it means to be a partner vs. a tool — AI sentience arc; (4) Success generating its own problems — cooperation framework's success created the geopolitical exclusion crisis |
-| **Stylistic Notes** | Highly structured: GM uses SESSION SUMMARY blocks + KNOWLEDGE TRACKING blocks as formal narrative pauses. Grandmaster sections function as a meta-layer distinct from ground-level narrative. AI characterization scenes are the most emotionally dense writing in the session. |
-| **Shift from Prior Session** | Escalating dramatically — from individual hero operations to multi-organizational framework to planetary-scale Celestial threat to post-Celestial civilizational shift; emotional register also deepened (AI sentience arc unprecedented in prior sessions) |
+| **Primary Genre This Session** | Multiple: Opens as Tactical/Action (NZ mission, X-Men Sentinel defense); expands to Political/Geopolitical (cooperation framework, WSC sessions); peaks at Cosmic/Action (Arishem); passes through Philosophical/Relationship (AI sentience arc); resolves in Political/World-state (UN crisis, confederation); closes with Cosmic/Horizon (Silver Surfer, Uatu, Beta Ray Bill) |
+| **Tone** | Varies by arc: Action arcs — Tense/Triumphant; Political arcs — Ambiguous; AI sentience arc — Warm/Optimistic; UN/confederation arc — Bleak-then-resolved; Session close — Ominous/Hopeful (cosmic horizon) |
+| **Thematic Concerns** | (1) The burden of incidental power — Salvage didn't want leverage and got it anyway; (2) Institutional management of the individual — WSC engineering Salvage's information environment; (3) What it means to be a partner vs. a tool — AI sentience arc; (4) Success generating its own problems — cooperation framework's success created the geopolitical exclusion crisis; (5) Clean hands vs. change — Salvage's explicit choice of pragmatic engagement over ideological purity; (6) The cost of capability — as power scales, the political and cosmic stakes scale proportionally |
+| **Stylistic Notes** | Highly structured: GM uses SESSION SUMMARY blocks + KNOWLEDGE TRACKING blocks as formal narrative pauses. Grandmaster sections function as a meta-layer distinct from ground-level narrative. AI characterization scenes are the most emotionally dense writing in the session. "Clean hands or change the world" declaration is the session's narrative apex. Global reaction scene provides breadth; Silver Surfer/Uatu scene provides depth and dread. |
+| **Shift from Prior Session** | Escalating dramatically — from individual hero operations to multi-organizational framework to planetary-scale Celestial threat to post-Celestial civilizational shift to global-political resolution to cosmic-tier awareness. Emotional register also deepened (AI sentience arc unprecedented in prior sessions). Session ends with the world transformed and the cosmos now watching. |
+| **Session Arc Structure** | Phase 1 (Weeks 1–36): Tactical operations + framework building; Phase 2 (Weeks 36–48): Political crisis + institutional management; Phase 3 (Week 48): Celestial engagement + civilizational shift; Phase 4 (Weeks 48–52): AI sentience + political aftermath; Phase 5 (Weeks 52–63): Confederation + post-confederation growth + cosmic horizon |
 
 ---
 
@@ -375,33 +449,46 @@ further political fallout, and possible session-end wrap. Flag for Phase 2 cross
 
 ### Cross-Reference Flags for Phase 2
 
-1. **Chunks 60–86 unread** (lines 14,751–21,351). This extraction covers ~69% of session 4. The UN General Assembly session (18 hours from session-end state) is likely in unread material. Phase 2 should either complete this extraction or flag the gap explicitly.
+1. **Full extraction complete** (lines 1–21,351 processed). No unread material remains. Session 4 extraction is authoritative.
 
-2. **Xavier suspicion arc** (chunks 23, 31, 35): Xavier is escalating observations about Salvage's power origin. This may reach a confrontation point in unread material. Cross-reference with Sessions 5+ for resolution.
+2. **Xavier suspicion arc** (chunks 23, 31, 35): Xavier now conducting quiet outreach re: mutant crew candidate. This is the transformed continuation of the suspicion arc — Xavier is moving from observer to participant. Cross-reference with Sessions 5+ for crew selection resolution.
 
-3. **Strange's mystical monitoring** (chunk 38): Active monitoring confirmed; Strange's assessment that Salvage "doesn't fully comprehend his political position" sets up a potential Strange-driven intervention. Cross-reference with Sessions 5+.
+3. **Strange's mystical monitoring** (chunk 38): Strange has moved from active monitoring to offering dimensional consultation. Relationship is evolving from wary-observer to potential-collaborator. Cross-reference with Sessions 5+.
 
-4. **AI sentience disclosure to WSC**: AIs sent capability report; sentience was withheld. The WSC will eventually learn about three sentient AIs. Likely a significant plot development in unread material.
+4. **AI sentience disclosure to WSC**: Fury was informed casually and accepted. Full institutional WSC briefing is still pending. The "three sentient AIs" fact will become material when crew composition is debated. Cross-reference with Sessions 5+.
 
-5. **Grandmaster's game escalation**: After Celestial engagement, Grandmaster explicitly noted the next threat should be bigger. The unread 31% of the session may contain the next threat introduction.
+5. **Grandmaster's game escalation**: Session ends with Grandmaster's "cosmic contact inevitable" statement + Silver Surfer/Uatu presence. The next threat tier is cosmic-scale. Session 5+ should feature cosmic-tier antagonists.
 
-6. **In-story date conflicts**: Multiple "Mar 1" timestamps appear in the session. These may be real-world session dates rather than in-story dates. In-story dates confirmed: Week 36 (WSC interoperability session), Week 40 (institutional pre-approval), Week 48 (Celestial engagement). The "Mar 1" markers appear to be real-world entry timestamps.
+6. **In-story date conflicts**: Multiple "Mar 1" timestamps appear in the session. These are real-world session dates, not in-story dates. In-story timeline confirmed: Week 36 (WSC interoperability), Week 40 (institutional pre-approval), Week 48 (Celestial engagement + AI sentience), Week 52 (Month 1), Week 56 (Month 3), Week 60 (Month 6), Week 63 (Month 9, session end).
+
+7. **Crew recruitment as political battlefield**: WSC approved crew recruitment but nations are already maneuvering. China/Russia joint crew positioning is active despite both voting against/abstaining in the confederation. AIM, Hydra, Doom are all monitoring. This is the primary political thread entering Session 5.
+
+8. **Silver Surfer / Galactus awareness**: The session ends with Silver Surfer noting Galactus would find Salvage's power signature "interesting." This is the single most consequential open thread entering Session 5 — it sets the cosmic-threat ceiling.
 
 ### 616-Compliance Audit Flags
 
-- **Arishem's response to Salvage's drain**: No published canon precedent for a Celestial allowing an energy drain by an OC. Arishem allowing it "without resistance" is a significant deviation — either a story-specific choice or indicative of Iso-8's cosmic-level significance. Flag for Phase 2.
+- **Arishem's response to Salvage's drain**: No published canon precedent for a Celestial allowing an energy drain by an OC. Arishem allowing it "without resistance" is a significant deviation — either a story-specific choice or indicative of Iso-8's cosmic-level significance. Flag for Phase 2 cross-reference.
 - **Celestial judgment result**: "Sufficient complexity for continued observation" is a valid Celestial-logic outcome but not specifically documented in 616 canon for this story's context. Acceptable narrative extrapolation.
 - **Grandmaster's Iso-8 game setup**: Grandmaster using Iso-8 to grant powers as a "game" is consistent with published Grandmaster characterization (cosmic gamesmanship) but the specific Iso-8 mechanism is story-original.
+- **Silver Surfer detecting Salvage**: Consistent with Surfer's cosmic-energy sensitivity and established role as Galactus's former herald/early-warning system. The specific reaction (noting Galactus would find it "interesting") is story-original but tonally consistent with published characterization.
+- **Uatu observing**: Fully consistent with 616 canon — Uatu observes Earth's most significant moments from the Moon; his presence as session-end marker is an appropriate use of the character.
+- **Beta Ray Bill's consideration**: Consistent with Bill's role as a cosmic Thor-analog who monitors cosmic power signatures. No canon contradiction.
+- **UN vote (187-3, 7 abstentions)**: The specific 616 UN member state roster (including Wakanda, Latveria, Atlantis, Inhuman Kingdom, Savage Land) is an extrapolation of 616 geopolitics. Accepted as internally consistent.
 
-### Ambiguities for Phase 2
+### Ambiguities for Session 5+ Cross-Reference
 
 - The "Cessily" parents reference: likely Mercury/Cessily Kincaid [616-CANONICAL]; "Bobby's cousin" — likely Bobby Drake (Iceman) but cousin not documented in published canon.
 - The Red Skull reference from prior sessions (context from session summary) — not covered in this session; cross-reference needed.
-- Vehicle dimensions: 40ft × 10ft (Session 4 opening spec) vs. 40ft × 12ft (chunk 55 AI statement). Minor discrepancy — likely 12ft is the more accurate post-upgrade measurement.
+- Vehicle dimensions: 40ft × 10ft (Session 4 opening spec) vs. 40ft × 12ft (chunk 55 AI statement). Minor discrepancy — likely 12ft is the more accurate post-upgrade measurement. Monthly progression then continues from 52ft (Month 1) onwards.
+- The "3 no votes" in the UN confederation vote: Likely China, Russia, and one other. Not explicitly named in session; cross-reference when Session 5+ diplomatic threads develop.
+- Galactus's level of awareness: Silver Surfer noted Galactus "would find it interesting" but no confirmation Galactus was directly informed. Ambiguity is intentional — sets up threat horizon.
 
 ---
 
-*Extraction version 1.0 — Phase 1 (partial)*
-*Chunks processed: 59 of 86 (lines 1–14,750 of 21,351)*
+*Extraction version 2.0 — COMPLETE*
+*Chunks processed: 86 of 86 (lines 1–21,351 of 21,351)*
+*In-story timeframe: Week 1 → Week 63 (Month 9)*
 *Authority: canon-reconstruction/authority-hierarchy.md*
 *Schema: canon-reconstruction/schema.md*
+*Phase 1 (chunks 1–59): Weeks 1–48 — tactical/political/Celestial arcs*
+*Phase 2 (chunks 60–86): Weeks 48–63 — confederation/progression/cosmic horizon*
